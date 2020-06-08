@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science & Engineering, GitHub University, 2025 (expected)
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2020 (expected)
-* B.Sc. in Computer Science & Engineering, BRAC University, 2017
+* Bsc. in Computer Science & Engineering, BRAC University, 2017
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
   * Supervisor: Professor Alireza Tavakkoli
   * University of Nevada, Reno.
 
-* May 2018 – June 2019 : Deep Learning Engineer
+* May 2018 - June 2019 : Deep Learning Engineer
   * Part-time remote work
   * SkinIQ Inc.
   * Palo Alto, California.
