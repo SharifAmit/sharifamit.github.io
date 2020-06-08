@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Bio"
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bsc. in Computer Science & Engineering, BRAC University, 2017
+* M.S. in Computer Science & Engineering, University of Nevada Reno, 2020 (expected)
+* Ph.D in Computer Science & Engineering, GitHub University, 2025 (expected)
 
 Work experience
 ======
