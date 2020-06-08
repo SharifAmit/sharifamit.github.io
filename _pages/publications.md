@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+
+<b>[Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography](https://sharifamit.github.io/publications/arxiv2020)</b> <br> 
+<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
+<i>Pre-print</i>. <b>Arxiv</b>.
+
 <b>[Improving Robustness using Joint Attention Network For Detecting Retinal Degeneration From Optical Coherence Tomography Images](https://sharifamit.github.io/publications/icip2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
 <i>27th IEEE International Conference on Image Processing</i>. <b>ICIP 2020</b>.
@@ -23,4 +28,4 @@ Sourajit Saha, <b>Sharif Amit Kamran </b>, Ali Shihab Sabbir.
 
 <b>[Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation](https://sharifamit.github.io/publications/sain2018)</b> <br> 
 <b>Sharif Amit Kamran </b>, Ali Shihab Sabbir.
-<i>International Symposium on Advanced Intelligent Informatics (SAIN)</i>. <b>SAIN 2018</b>.
+<i>International Symposium on Advanced Intelligent Informatics</i>. <b>SAIN 2018</b>.
