@@ -25,7 +25,7 @@ Work experience
 * Spring 2020: Grader
   * CS491/CS691: Deep Learning
   * Supervisor: Professor Alireza Tavakkoli
-  * University of Nevada Reno.
+  * University of Nevada, Reno.
 
 * May 2018 – June 2019 : Deep Learning Engineer
   * Part-time remote work
@@ -49,4 +49,3 @@ Voluntary Academic Duties
 ======
 * June 2020 - August 2020: Mentor
   * Research & Engineering Apprenticeship Program, AEOP
-  
