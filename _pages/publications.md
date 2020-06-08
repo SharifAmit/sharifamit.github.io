@@ -15,7 +15,7 @@ author_profile: true
 
 <b>[A Comprehensive Set of Novel Residual Blocks for Deep Learning Architectures for Diagnosis of Retinal Diseases from Optical Coherence Tomography Images](https://sharifamit.github.io/publications/dlbook2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Sourajit Saha, Ali Shihab Sabbir, Alireza Tavakkoli.
-<i>Book chapter, Deep Learning Applications. volume 2</i>. <b>Springer Nature</b>.
+<i>Book chapter, Deep Learning Applications. vol. 2</i>. <b>Springer Nature</b>.
 
 <b>[Optic-Net: A Novel Convolutional Neural Network for Diagnosis of Retinal Diseases from Optical Tomography Images](https://sharifamit.github.io/publications/icmla2019)</b> <br> 
 <b>Sharif Amit Kamran </b>, Sourajit Saha, Ali Shihab Sabbir, Alireza Tavakkoli.
