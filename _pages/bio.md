@@ -18,13 +18,14 @@ Education
 Work experience
 ======
 * Fall 2019 - Present: Graduate Research Assistant
-  * University of Nevada Reno
+  * Department of Comuter Science & UNR School of Medicine
+  * University of Nevada, Reno 
 
 
 * Spring 2020: Grader
-  * University of Nevada Reno,
-  * Duties included: CS491/CS691: Deep Learning
+  * CS491/CS691: Deep Learning
   * Supervisor: Professor Alireza Tavakkoli
+  * University of Nevada Reno
 
 Publications
 ======
