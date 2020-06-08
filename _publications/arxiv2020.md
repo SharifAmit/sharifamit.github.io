@@ -2,7 +2,7 @@
 title: "Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography"
 collection: publications
 permalink: /publications/arxiv2020
-venue: "Pre-print"
+venue: "Arxiv"
 date: 2020-05-11
 citation: '<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.'
 ---
