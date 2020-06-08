@@ -49,3 +49,5 @@ Voluntary Academic Duties
 ======
 * June 2020 - August 2020: Mentor
   * Research & Engineering Apprenticeship Program, AEOP
+* October 2019: Student Orgranizer
+  * 14th International Symposium on Visual Computing (ISVC) 2019
