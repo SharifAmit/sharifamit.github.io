@@ -20,7 +20,7 @@ redirect_from:
 * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
 * December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
 * September 11, 2019. One paper accepted to <b>ICMLA 2019</b>.
-* August 1, 2019. I joined University of Nevada, Reno as a PhD. Student.
+* August 1, 2019. Joining University of Nevada, Reno as a PhD. Student.
 * June 30, 2019. I left my position as a Researcher from Center for Cognitive Skill Enhancement, IUB.
 * June 30, 2019. I left SkinIQ Inc.
 * October 28, 2018. One paper accepted to <b>ICCIT 2018</b>.
