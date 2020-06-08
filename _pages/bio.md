@@ -19,19 +19,24 @@ Work experience
 ======
 * Fall 2019 - Present: Graduate Research Assistant
   * Department of Comuter Science & UNR School of Medicine
-  * University of Nevada, Reno 
+  * University of Nevada, Reno.
 
 
 * Spring 2020: Grader
   * CS491/CS691: Deep Learning
   * Supervisor: Professor Alireza Tavakkoli
-  * University of Nevada Reno
+  * University of Nevada Reno.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* May 2018 – June 2019 : Deep Learning Engineer
+  * Part-time remote work
+  * SkinIQ Inc.
+  * Palo Alto, California.
+
+* May 2017 - June 2019: Researcher 
+  * Part-time
+  * Supervisor : Ali Shihab Sabbir
+  * Center for Cognitive Skill Enhancement
+  * Independent University Bangladesh (IUB), Dhaka, Bangladesh.
 
 Online Certificates
 =====
@@ -44,3 +49,4 @@ Voluntary Academic Duties
 ======
 * June 2020 - August 2020: Mentor
   * Research & Engineering Apprenticeship Program, AEOP
+  
