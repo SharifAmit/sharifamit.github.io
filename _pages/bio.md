@@ -22,7 +22,7 @@ Work experience
   * University of Nevada, Reno.
 
 
-* Spring 2020: Grader
+* Spring 2020: <b>Grader</b>
   * CS491/CS691: Deep Learning
   * Supervisor: Professor Alireza Tavakkoli
   * University of Nevada, Reno.
