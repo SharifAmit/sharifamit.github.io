@@ -30,6 +30,6 @@ redirect_from:
 * June 1, 2018. Took a hands on workshop on <b>Deep Learning for Computer Vision</b> at IUB.
 * May 1, 2018. I joined [SkinIQ Inc.](https://www.skiniqinc.com/) as a part-time Deep Learning engineer, working remotly from Bangladesh.
 * April 1, 2018. We co-founded [Bengali.AI](https://people.bengali.ai/) with some awesome group of people.
-* June 21, 2017. Took a workshop on <b>Advanced Micro Controller Programming for Deep Learning</b>
+* June 21, 2017. Took a workshop on <b>Advanced Micro Controller Programming for Deep Learning</b>.
 * May 15, 2017. I joined Center for Cognitive Skill Enhancement, IUB as a Researcher.
 * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
