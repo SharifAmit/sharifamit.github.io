@@ -1,12 +1,38 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About Me
+
+* I am a Ph.D. student in the [Department of Computer Science & Engineering](https://www.unr.edu/cse) at [University of Nevada, Reno](https://www.unr.edu/), advised by Professor [Alireza Tavakkoli, UNR CSE](https://www.cse.unr.edu/~alit/) & Professor [Sal Baker, UNR medicine](https://med.unr.edu/directory/sal-baker). [[Curriculum Vitae](https://sharifamit.github.io/files/Sharif_Amit_Kamran_CV_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I am expecting to complete my Masters in Computer Science & Engineering degree from University of Nevada, Reno in December 2020. 
+* I completed my Bachelors in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
+* My research interests lie in the intersection of Computer Vision, Deep Learning and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation etc. Quite recently, I have been working on improving robustness, image synthesis and image denoising using GAN on different modalities of Opthalmological and Calcium imaging data.
+
+# Recent News
+* May 15, 2020. One paper accepted to ICIP 2020.
+* April 26, 2020. Book chapter accepted to Deep Learning Applications, Volume 2.
+* December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
+* September 11, 2019. One paper accepted to ICMLA 2019.
+* August 1, 2019. I joined University of Nevada, Reno as a PhD. Student.
+* June 30, 2019. I left my position as a Researcher from Center for Cognitive Skill Enhancement, IUB.
+* June 30, 2019. I left SkinIQ Inc.
+* October 28, 2018. One paper accepted to ICCIT 2018.
+* July 23, 2018. One paper accepted to SAIN 2018.
+* July 6, 2018. Took an interactive session on "What comes after AI ?" at Bengali.AI CV Challange 2018 Finale and Community Meetup.
+* June 16, 2018. We organized [Bengali.AI Computer Challenge 2018](https://www.kaggle.com/BengaliAI/numta) on "NumtaDB: Bengali Handwritten Digits" data-set.
+* June 1, 2018. Took a hands on workshop on "Deep Learning for Computer Vision" at IUB.
+* May 1, 2018. I joined [SkinIQ Inc.](https://www.skiniqinc.com/) as a part-time Deep Learning engineer, working remotly from Bangladesh.
+* April 1, 2018. I co-founded [Bengali.AI](https://people.bengali.ai/) with some awesome group of people.
+* June 21, 2017. Took a workshop on "Advanced Micro Controller Programming for Deep Learning"
+* May 15, 2017. I joined Center for Cognitive Skill Enhancement, IUB as a Researcher.
+* April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
