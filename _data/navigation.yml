@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /files/Sharif_Amit_Kamran_CV_2020.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
 
   - title: "Contact"
     url: /contact/
