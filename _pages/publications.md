@@ -3,7 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
+
 <b>[Improving Robustness using Joint Attention Network For Detecting Retinal Degeneration From Optical Coherence Tomography Images](https://sharifamit.github.io/publications/icip2020)</b> <br> 
 <b>Sharif Amit Kamran <b>, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
 <i>27th IEEE International Conference on Image Processing</i>. <b>ICIP 2020</b>.
