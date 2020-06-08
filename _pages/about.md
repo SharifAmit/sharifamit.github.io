@@ -26,7 +26,7 @@ redirect_from:
 * October 28, 2018. One paper accepted to <b>ICCIT 2018</b>.
 * July 23, 2018. One paper accepted to <b>SAIN 2018</b>.
 * July 6, 2018. Took an interactive session on <b>What comes after AI ?</b> at Bengali.AI CV Challange 2018 Finale and Community Meetup.
-* June 16, 2018. We organized [Bengali.AI Computer Challenge 2018](https://www.kaggle.com/BengaliAI/numta) on <b>NumtaDB: Bengali Handwritten Digits</b> data-set.
+* June 16, 2018. We organized [Bengali.AI Computer Challenge 2018](https://www.kaggle.com/c/numta) on <b>NumtaDB: Bengali Handwritten Digits</b> data-set.
 * June 1, 2018. Took a hands on workshop on <b>Deep Learning for Computer Vision</b> at IUB.
 * May 1, 2018. I joined [SkinIQ Inc.](https://www.skiniqinc.com/) as a part-time Deep Learning engineer, working remotly from Bangladesh.
 * April 1, 2018. We co-founded [Bengali.AI](https://people.bengali.ai/) with some awesome group of people.
