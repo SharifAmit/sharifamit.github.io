@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sharif Amit Kamran"
   avatar           : "pp.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student, Department of Computer Science & Engineering, University of Nevada, Reno"
   location         : "Reno, NV"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DW0hlZsAAAAJ"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Sharif_Amit"
+  email            : "skamran@nevada.unr.edu"
+  researchgate     : "https://www.researchgate.net/profile/Sharif_Amit"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sharif-a-b15004105/"
+  linkedin         : "sharif-a-b15004105"
   orcid            : 
   pinterest        :
   soundcloud       :
