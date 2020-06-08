@@ -2,9 +2,9 @@
 title: "A Comprehensive Set of Novel Residual Blocks for Deep Learning Architectures for Diagnosis of Retinal Diseases from Optical Coherence Tomography Images"
 collection: publications
 permalink: /publications/dlbook2020
-venue: "Springer Nature"
+venue: "Deep Learning Applications vol. 2, Springer Nature"
 date: 2020-12-12
-citation: '<b>Sharif Amit Kamran <b>, Sourajit Saha, Ali Shihab Sabbir, Alireza Tavakkoli.'
+citation: '<b>Sharif Amit Kamran <\b>, Sourajit Saha, Ali Shihab Sabbir, Alireza Tavakkoli.'
 ---
 
 

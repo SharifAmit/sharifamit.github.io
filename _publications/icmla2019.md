@@ -1,10 +1,10 @@
 ---
 title: "Optic-Net: A Novel Convolutional Neural Network for Diagnosis of Retinal Diseases from Optical Tomography Images"
 collection: publications
-permalink: /publications/icmla2020
+permalink: /publications/icmla2019
 venue: "2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)"
 date: 2019-12-16
-citation: '<b>Sharif Amit Kamran <b>, Sourajit Saha, Ali Shihab Sabbir, Alireza Tavakkoli.'
+citation: '<b>Sharif Amit Kamran <\b>, Sourajit Saha, Ali Shihab Sabbir, Alireza Tavakkoli.'
 ---
 [[IEEE]](https://ieeexplore.ieee.org/document/8999264) [[Code]](https://github.com/SharifAmit/OCT_Classification)
 

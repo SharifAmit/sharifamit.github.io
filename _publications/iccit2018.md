@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/iccit2018
 venue: "2018 21st International Conference of Computer and Information Technology (ICCIT)"
 date: 2018-12-21
-citation: 'Sourajit Saha, <b>Sharif Amit Kamran <b>, Ali Shihab Sabbir'
+citation: 'Sourajit Saha, <b>Sharif Amit Kamran <\b>, Ali Shihab Sabbir'
 ---
 [[IEEE]](https://ieeexplore.ieee.org/document/8631925)
 
