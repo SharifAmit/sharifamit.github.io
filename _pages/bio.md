@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio"
+#title: "Bio"
 permalink: /bio/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science & Engineering, GitHub University, 2025 (expected)
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2020 (expected)
-* Bsc. in Computer Science & Engineering, BRAC University, 2017
+* B.Sc. in Computer Science & Engineering, BRAC University, 2017
 
 Work experience
 ======
@@ -40,7 +40,7 @@ Work experience
 
 Online Certificates
 =====
-  * [Deep Learning Specialization, Coursera](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM)
+  * [Deep Learning Specialization, deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM)
   * [Introduction to Data Science, University of Michigan](https://www.coursera.org/account/accomplishments/verify/XYQ25BJD9PA6)
   * [Applied Machine Learning in Python, University of Michigan](https://www.coursera.org/account/accomplishments/verify/LS77LUGT2WBK)
 
