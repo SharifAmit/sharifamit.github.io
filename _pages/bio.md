@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2020 (expected)
 * Bsc. in Computer Science & Engineering, BRAC University, 2017
 
-Work experience
+Work Experience
 ======
 * Fall 2019 - Present: <b>Graduate Research Assistant</b>
   * Department of Comuter Science & UNR School of Medicine
@@ -40,9 +40,9 @@ Work experience
 
 Online Certificates
 =====
-  * [Deep Learning Specialization, ](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM)deeplearning.ai
-  * [Introduction to Data Science, ](https://www.coursera.org/account/accomplishments/verify/XYQ25BJD9PA6)University of Michigan
-  * [Applied Machine Learning in Python, ](https://www.coursera.org/account/accomplishments/verify/LS77LUGT2WBK)University of Michigan
+  * [Deep Learning Specialization,](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM) deeplearning.ai
+  * [Introduction to Data Science,](https://www.coursera.org/account/accomplishments/verify/XYQ25BJD9PA6) University of Michigan
+  * [Applied Machine Learning in Python,](https://www.coursera.org/account/accomplishments/verify/LS77LUGT2WBK) University of Michigan
 
 
 Voluntary Academic Duties
