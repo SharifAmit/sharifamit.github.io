@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science & Engineering, GitHub University, 2025 (expected)
+* Ph.D in Computer Science & Engineering, University of Nevada Reno, 2025 (expected)
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2020 (expected)
 * Bsc. in Computer Science & Engineering, BRAC University, 2017
 
