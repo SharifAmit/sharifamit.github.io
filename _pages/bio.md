@@ -40,9 +40,9 @@ Work experience
 
 Online Certificates
 =====
-  * [Deep Learning Specialization, deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM)
-  * [Introduction to Data Science, University of Michigan](https://www.coursera.org/account/accomplishments/verify/XYQ25BJD9PA6)
-  * [Applied Machine Learning in Python, University of Michigan](https://www.coursera.org/account/accomplishments/verify/LS77LUGT2WBK)
+  * [Deep Learning Specialization, ](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM)deeplearning.ai
+  * [Introduction to Data Science, ](https://www.coursera.org/account/accomplishments/verify/XYQ25BJD9PA6)University of Michigan
+  * [Applied Machine Learning in Python, ](https://www.coursera.org/account/accomplishments/verify/LS77LUGT2WBK)University of Michigan
 
 
 Voluntary Academic Duties
