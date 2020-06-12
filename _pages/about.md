@@ -30,6 +30,8 @@ redirect_from:
 * June 1, 2018. Took a hands on workshop on <b>Deep Learning for Computer Vision</b> at IUB.
 * May 1, 2018. I joined [SkinIQ Inc.](https://www.skiniqinc.com/) as a part-time Deep Learning engineer, working remotly from Bangladesh.
 * April 1, 2018. We co-founded [Bengali.AI](https://people.bengali.ai/) with some awesome group of people.
+* July 7, 2017. Our model scored meanIOU 69% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
 * June 21, 2017. Took a workshop on <b>Advanced Micro Controller Programming for Deep Learning</b>.
 * May 15, 2017. I joined Center for Cognitive Skill Enhancement, IUB as a Researcher.
 * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
+* April 4, 2017. Our model scored meanIOU 68.1% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
