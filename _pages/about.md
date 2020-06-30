@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-* I am a Graduate student in the [Department of Computer Science & Engineering](https://www.unr.edu/cse) at [University of Nevada, Reno](https://www.unr.edu/), under the supervision of Professor [Alireza Tavakkoli, UNR CSE](https://www.cse.unr.edu/~alit/) & Professor [Sal Baker, UNR medicine](https://med.unr.edu/directory/sal-baker). [[Curriculum Vitae](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I am a graduate student in the [Department of Computer Science & Engineering](https://www.unr.edu/cse) at [University of Nevada, Reno](https://www.unr.edu/), under the supervision of Professor [Alireza Tavakkoli, UNR CSE](https://www.cse.unr.edu/~alit/) & Professor [Sal Baker, UNR medicine](https://med.unr.edu/directory/sal-baker). [[Curriculum Vitae](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 * I am expecting to complete my Masters in Computer Science & Engineering degree from University of Nevada, Reno in December 2020. 
 * I completed my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
@@ -22,7 +22,7 @@ redirect_from:
 * September 11, 2019. One paper accepted to <b>ICMLA 2019</b>.
 * August 1, 2019. Joining University of Nevada, Reno as a PhD. Student.
 
-# Past events
+# Past news and events
 * June 30, 2019. I left my position as a Researcher from Center for Cognitive Skill Enhancement, IUB.
 * June 30, 2019. I left SkinIQ Inc.
 * October 28, 2018. One paper accepted to <b>ICCIT 2018</b>.
