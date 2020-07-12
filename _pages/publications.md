@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[A High Throughput Machine-Learning Driven Analysis of Ca2+ Spatio-temporal Maps](https://sharifamit.com/publications/cell2020)</b> <br> 
+Wesley Leigh, Guillermo Del Valle,<b> Sharif Amit Kamran </b>, Bernard T Drumm, Alireza Tavakkoli, Kenton M Sanders, Sal Baker
+<i>Journal Article</i>. <b>Cell Calcium</b>.
+
+
 <b>[Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography](https://sharifamit.com/publications/arxiv2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
 <i>Pre-print</i>. <b>Arxiv</b>.
