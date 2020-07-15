@@ -16,7 +16,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-* July 15, 2020. Completed reviewing papers for BMVC2020.
+* July 15, 2020. Completed reviewing papers for <b>BMVC2020</b>.
 * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
 * May 15, 2020. One paper accepted to <b>ICIP 2020</b>.
 * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
