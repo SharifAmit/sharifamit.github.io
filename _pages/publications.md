@@ -9,6 +9,10 @@ author_profile: true
 Wesley Leigh, Guillermo Del Valle,<b> Sharif Amit Kamran </b>, Bernard T Drumm, Alireza Tavakkoli, Kenton M Sanders, Sal Baker
 <i>Journal Article</i>. <b>Cell Calcium</b>.
 
+<b>[Attention2AngioGAN: Synthesizing Fluorescein Angiography from Retinal Fundus Images using Generative Adversarial Networks](https://sharifamit.com/publications/attention2020)</b> <br> 
+<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
+<i>Pre-print</i>. <b>Arxiv</b>.
+
 <b>[Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography](https://sharifamit.com/publications/arxiv2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
 <i>Pre-print</i>. <b>Arxiv</b>.
