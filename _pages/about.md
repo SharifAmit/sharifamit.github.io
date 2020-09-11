@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # About Me
+* <span style="color:red">some **I'm currently looking for Internships for Summer 2021.** text</span>
 
 * I am a 2nd year PhD. student in the [Department of Computer Science & Engineering](https://www.unr.edu/cse) at [University of Nevada, Reno](https://www.unr.edu/). [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_Resume_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 * I completed my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
