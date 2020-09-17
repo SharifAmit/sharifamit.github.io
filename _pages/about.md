@@ -18,10 +18,10 @@ redirect_from:
 # Recent updates
 * July 15, 2020. Completed reviewing papers for <b>BMVC2020</b>.
 * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
-* May 15, 2020. One paper accepted to <b>ICIP 2020</b>.
+* May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
 * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
 * December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
-* September 11, 2019. One paper accepted to <b>ICMLA 2019</b>.
+* September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
 * August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
 
 # Past news and events
