@@ -14,8 +14,8 @@ Wesley Leigh, Guillermo Del Valle,<b> Sharif Amit Kamran </b>, Bernard T Drumm, 
 <i>Pre-print</i>. <b>Arxiv</b>.
 
 <b>[Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography](https://sharifamit.com/publications/arxiv2020)</b> <br> 
-<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
-<i>Pre-print</i>. <b>Arxiv</b>.
+<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Kenton M Sanders, Sal Baker.
+<i>15th International Symposium on Visual Computing</i>. <b>ISVC 2020</b>.
 
 <b>[Improving Robustness using Joint Attention Network For Detecting Retinal Degeneration From Optical Coherence Tomography Images](https://sharifamit.com/publications/icip2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Alireza Tavakkoli, Stewart Lee Zuckerbrod.

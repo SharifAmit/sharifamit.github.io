@@ -2,9 +2,9 @@
 title: "Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography"
 collection: publications
 permalink: /publications/arxiv2020
-venue: "Arxiv"
-date: 2020-05-11
-citation: '<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.'
+venue: "15th International Symposium on Visual Computing (ISVC)"
+date: 2020-10-07
+citation: '<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Kenton M Sanders, Sal Baker'
 ---
 [[Arxiv]](https://arxiv.org/abs/2005.05267)
 
