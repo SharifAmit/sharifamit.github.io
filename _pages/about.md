@@ -16,15 +16,17 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-* July 15, 2020. Completed reviewing papers for <b>BMVC2020</b>.
+* September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
+* July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
 * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
 * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
 * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
 * December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
-* September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
-* August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
+
 
 # Past news and events
+* September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
+* August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
 * June 30, 2019. I left my position as a Researcher from Center for Cognitive Skill Enhancement, IUB.
 * June 30, 2019. I left SkinIQ Inc.
 * October 28, 2018. One paper accepted to <b>ICCIT 2018</b>.
