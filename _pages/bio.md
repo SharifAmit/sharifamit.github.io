@@ -33,7 +33,6 @@ Work Experience
   * Palo Alto, California.
 
 * May 2017 - June 2019: <b>Researcher</b>
-  * Part-time
   * Supervisor : Ali Shihab Sabbir
   * Center for Cognitive Skill Enhancement
   * Independent University Bangladesh (IUB), Dhaka, Bangladesh.
@@ -48,6 +47,11 @@ Online Certificates
 Voluntary Academic Duties
 ======
 * June 2020 - August 2020: <b>Mentor</b>
-  * Research & Engineering Apprenticeship Program, AEOP
+  * Research & Engineering Apprenticeship Program, (U.S. AEOP)
+* <b> Reviewer </b>
+  * International Conference on Robotics and Automation (ICRA 2019)
+  * 31st British Machine Vision Virtual Conference (BMVC 2020)
+  * Sensors Journal
+  * International Journal on Artificial Intelligence Tools
 * October 2019: <b>Student Orgranizer</b>
   * 14th International Symposium on Visual Computing (ISVC) 2019
