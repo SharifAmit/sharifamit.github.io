@@ -11,10 +11,10 @@ redirect_from:
 # About Me
 * <span style="color:red">**I'm currently looking for Internships for Summer 2021.**</span>
 
-* Hello, this is Amit hailing from Bangladesh !
 * Currently, pursuing a PhD. in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_Resume_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 * I have completed my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
+* I was an E-sports athelete and have won multiple Counter Strike titles nationally . Other than that, I used to playe guitar for two underground extreme metal bands [Metal-Archives](https://www.metal-archives.com/artists/Amit/413572).
 
 # Recent updates
 * September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
