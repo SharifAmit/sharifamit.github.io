@@ -11,7 +11,7 @@ Wesley Leigh, Guillermo Del Valle,<b> Sharif Amit Kamran </b>, Bernard T Drumm, 
 
 <b>[Attention2AngioGAN: Synthesizing Fluorescein Angiography from Retinal Fundus Images using Generative Adversarial Networks](https://sharifamit.com/publications/attention2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.
-<i>Pre-print</i>. <b>Arxiv</b>.
+<i>25th International Conference on Pattern Recognition</i>. <b>ICPR 2020</b>.
 
 <b>[Fundus2Angio: A Novel Conditional GAN Architecture for Generating Fluorescein Angiography Images from Retinal Fundus Photography](https://sharifamit.com/publications/arxiv2020)</b> <br> 
 <b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Kenton M Sanders, Sal Baker.

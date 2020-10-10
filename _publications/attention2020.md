@@ -2,7 +2,7 @@
 title: "Attention2AngioGAN: Synthesizing Fluorescein Angiography from Retinal Fundus Images using Generative Adversarial Networks"
 collection: publications
 permalink: /publications/attention2020
-venue: "Arxiv"
+venue: "25th International Conference on Patter Recognition (ICPR), 2020"
 date: 2020-07-17
 citation: '<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod.'
 ---
