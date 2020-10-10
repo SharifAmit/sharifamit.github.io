@@ -14,18 +14,18 @@ redirect_from:
 * Pursuing PhD. in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_Resume_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 * I have completed my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
-* I was an E-sports athelete and have won multiple Counter Strike titles nationally . Other than that, I used to playe guitar for two underground extreme metal bands [[Metal-Archives]](https://www.metal-archives.com/artists/Amit/413572).
+* I was an E-sports athelete and have won multiple Counter Strike titles nationally [[Steam]]. Other than that, I used to playe guitar for two underground extreme metal bands [[Metal-Archives]](https://www.metal-archives.com/artists/Amit/413572).
 
 # Recent updates
+* October 10, 2020. One paper accepted to <b> ICPR 2020 </b>
 * September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
 * July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
 * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
 * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
 * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
-* December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
-
 
 # Past news and events
+* December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
 * September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
 * August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
 * June 30, 2019. I left my position as a Researcher from Center for Cognitive Skill Enhancement, IUB.
