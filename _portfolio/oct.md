@@ -1,5 +1,5 @@
 ---
-title: "Retinal Image Synthesis from Fundus to Fluroscein Angiography"
+title: "Diabetic Retinopathy Diagnosis from Optical Coherence Tomography "
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/icmla.png'>"
 collection: portfolio
 ---

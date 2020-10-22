@@ -1,5 +1,5 @@
 ---
-title: "Retinal Image Synthesis from Fundus to Fluroscein Angiography"
+title: "Traffic Sign Recognition using Deep Convolutional Neural Networks"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/iccit.png'>"
 collection: portfolio
 ---

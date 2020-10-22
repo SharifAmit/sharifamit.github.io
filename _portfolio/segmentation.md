@@ -1,5 +1,5 @@
 ---
-title: "Retinal Image Synthesis from Fundus to Fluroscein Angiography"
+title: "Semantic Segmentation using FCN"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/sain.png'>"
 collection: portfolio
 ---

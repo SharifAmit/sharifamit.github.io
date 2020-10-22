@@ -1,6 +1,6 @@
 ---
-title: "Retinal Image Synthesis from Fundus to Fluroscein Angiography"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/cellcalcium.png'>"
+title: "Calcium Transient Spatio-Temporal Map Segmentation"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/cellcalcium.jpg'>"
 collection: portfolio
 ---
 
