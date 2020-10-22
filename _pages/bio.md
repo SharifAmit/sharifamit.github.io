@@ -55,6 +55,10 @@ Voluntary Academic Duties
 * <b>Student Orgranizer</b>
   * 14th International Symposium on Visual Computing (ISVC) 2019
 
-Places visited (World)
+Countries visited (World)
 ===================
 <iframe src="https://www.google.com/maps/d/embed?mid=14QlaGA9XWxLp-_7S_NxesmRvouCKec2g" width="640" height="480"></iframe>
+
+States visited (Inside USA)
+=====================
+<iframe src="https://www.google.com/maps/d/embed?mid=1n_JHvjW-8TZIGU1UFSMssBHt0zeGC13n" width="640" height="480"></iframe>
