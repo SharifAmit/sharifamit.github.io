@@ -1,6 +1,6 @@
 ---
 title: "Retinal Image Synthesis from Fundus to Fluroscein Angiography"
-excerpt: "A Conditional Generative Network for synthesizing Fluroscein Angio images from Fundus Photography.<br/><br/><img src='/images/isvc.png'>"
+excerpt: "* A Conditional Generative Network for synthesizing Fluroscein Angio images from Fundus Photography.<br/><br/><img src='/images/isvc.png'>"
 collection: portfolio
 ---
 

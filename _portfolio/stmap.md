@@ -1,6 +1,6 @@
 ---
 title: "Calcium Transient Spatio-Temporal Denosing"
-excerpt: "Automated denoising of calcium signals using mathematical noise modeling."
+excerpt: "* Automated denoising of calcium signals using mathematical noise modeling."
 collection: portfolio
 ---
 

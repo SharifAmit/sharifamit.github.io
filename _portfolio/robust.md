@@ -1,6 +1,6 @@
 ---
 title: "Improving Robustness for Optical Coherence Tomography"
-excerpt: "Incorporating Supervised-Unsupervised Joint Attention Network for improving robustness for recogniziing diabetic Retinopathy."
+excerpt: "* Incorporating Supervised-Unsupervised Joint Attention Network for improving robustness for recogniziing diabetic Retinopathy."
 collection: portfolio
 ---
 

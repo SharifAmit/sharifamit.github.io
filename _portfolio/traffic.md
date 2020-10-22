@@ -1,6 +1,6 @@
 ---
 title: "Traffic Sign Recognition using Deep Convolutional Neural Networks"
-excerpt: "A novel deep residual network for state-of-the-art traffic sign recogntition for German and Belgian Traffic Sign data-set."
+excerpt: "* A novel deep residual network for state-of-the-art traffic sign recogntition for German and Belgian Traffic Sign data-set."
 collection: portfolio
 ---
 [[Github: TotalRecall]](https://github.com/Sourajit2110/DilatedSkipTotalRecall)
