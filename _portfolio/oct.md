@@ -1,6 +1,6 @@
 ---
 title: "Diabetic Retinopathy Diagnosis from Optical Coherence Tomography "
-excerpt: "A model for classifying different Retinal Diseases using Deep Learning from Optical Coherence Tomography Images.<br/><br/><img src='/images/icmla.png'>"
+excerpt: "A model for classifying different Retinal Diseases using Deep Learning from Optical Coherence Tomography Images."
 collection: portfolio
 ---
 
