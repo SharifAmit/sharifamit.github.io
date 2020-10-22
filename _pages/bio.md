@@ -17,23 +17,23 @@ Education
 
 Work Experience
 ======
-* Fall 2019 - Present: <b>Graduate Research Assistant</b>
+* <b>Graduate Research Assistant</b> Aug 2019 - Present
   * Department of Comuter Science & UNR School of Medicine
   * University of Nevada, Reno.
 
-* June 2020 - August 2020: <b>Mentor</b>
+* <b>Mentor</b> June 2020 - August 2020
   * Research & Engineering Apprenticeship Program
   * US Army Educational Outreach Program.
 
-* Jan 2020 - May 2020: <b>Graduate Teaching Assistant</b>
+* <b>Graduate Teaching Assistant</b> Jan 2020 - May 2020
   * CS491/CS691: Deep Learning
   * University of Nevada, Reno.
 
-* May 2018 - June 2019 : <b>Deep Learning Engineer</b>
+* <b>Deep Learning Engineer</b> May 2018 - June 2019
   * SkinIQ Inc.
   * Palo Alto, California.
 
-* May 2017 - June 2019: <b>Researcher</b>
+* <b>Researcher</b> May 2017 - June 2019
   * Center for Cognitive Skill Enhancement
   * Independent University Bangladesh (IUB), Dhaka, Bangladesh.
 
