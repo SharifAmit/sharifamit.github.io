@@ -1,6 +1,6 @@
 ---
 title: "Retinal Image Synthesis from Fundus to Fluroscein Angiography"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/icpr.png'>"
+excerpt: "Short description of portfolio item number 1<br/><p align="center"><img src='/images/icpr.png' alt="drawing" width="200"></p>"
 collection: portfolio
 ---
 
