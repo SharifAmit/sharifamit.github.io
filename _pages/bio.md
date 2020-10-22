@@ -54,3 +54,7 @@ Voluntary Academic Duties
   * International Journal on Artificial Intelligence Tools
 * <b>Student Orgranizer</b>
   * 14th International Symposium on Visual Computing (ISVC) 2019
+
+Places visited (World)
+===================
+<a href="https://map1.maploco.com/visited-countries/mine.php?c1=m9bbjnte68-b33j9ynrb4-ejte1tqolc-b67u4agjcw-2rrvthoagw"><img src="https://map1.maploco.com/visited-countries/ml/m9bbjnte68-b33j9ynrb4-ejte1tqolc-b67u4agjcw-2rrvthoagw.gif" border=0><br>Create Your Own Visited Countries Map</a>
