@@ -57,4 +57,4 @@ Voluntary Academic Duties
 
 Places visited (World)
 ===================
-<a href="https://map1.maploco.com/visited-countries/mine.php?c1=m9bbjnte68-b33j9ynrb4-ejte1tqolc-b67u4agjcw-2rrvthoagw"><img src="https://map1.maploco.com/visited-countries/ml/m9bbjnte68-b33j9ynrb4-ejte1tqolc-b67u4agjcw-2rrvthoagw.gif" border=0><br>Create Your Own Visited Countries Map</a>
+<iframe src="https://www.google.com/maps/d/embed?mid=14QlaGA9XWxLp-_7S_NxesmRvouCKec2g" width="640" height="480"></iframe>
