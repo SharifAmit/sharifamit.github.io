@@ -1,6 +1,6 @@
 ---
 title: "Traffic Sign Recognition using Deep Convolutional Neural Networks"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/iccit.png'>"
+excerpt: "A novel deep residual network for state-of-the-art traffic sign recogntition for German and Belgian Traffic Sign data-set.<br/><img src='/images/iccit.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Calcium Transient Spatio-Temporal Map Segmentation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/cellcalcium.jpg'>"
+excerpt: "Using image filters for feature selection and using Fast Random Forest for Binary Segmentation of Calcioum Trannsient Events in-vitro.<br/><img src='/images/cellcalcium.jpg'>"
 collection: portfolio
 ---
 

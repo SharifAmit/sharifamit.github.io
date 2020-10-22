@@ -1,6 +1,6 @@
 ---
 title: "Improving Robustness for Optical Coherence Tomography"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/icip.png'>"
+excerpt: "Incorporating Supervised-Unsupervised Joint Attention Network for improving robustness for recogniziing diabetic Retinopathy.<br/><img src='/images/icip.png'>"
 collection: portfolio
 ---
 
