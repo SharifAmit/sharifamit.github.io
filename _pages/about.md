@@ -27,10 +27,10 @@ redirect_from:
 # Past news and events
 <details><summary>Click to expand.</summary>
 
-* April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
-* December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
-* September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
-* August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
+- April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
+- December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
+- September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
+- August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
 * June 30, 2019. I left my position as a Researcher from Center for Cognitive Skill Enhancement, IUB.
 * June 30, 2019. I left SkinIQ Inc.
 * October 28, 2018. One paper accepted to <b>ICCIT 2018</b>.
@@ -45,4 +45,5 @@ redirect_from:
 * May 15, 2017. I joined Center for Cognitive Skill Enhancement, IUB as a Researcher.
 * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
 * April 4, 2017. Our model scored meanIOU 68.1% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
+
 </details>
