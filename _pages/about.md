@@ -17,14 +17,16 @@ redirect_from:
 * I was an E-sports athelete and have won multiple Counter Strike titles nationally. Other than that, I used to play guitar for two underground extreme metal bands [[Metal-Archives]](https://www.metal-archives.com/artists/Amit/413572).
 
 # Recent updates
-* October 10, 2020. One paper accepted to <b> ICPR 2020 </b>
+* October 22, 2020. Completed reviewing papers for <b>WACV 2020</b>.
+* October 10, 2020. One paper accepted to <b> ICPR 2020 </b>.
 * September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
 * July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
 * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
 * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
-* April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
 
 # Past news and events
+<details>
+* April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
 * December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
 * September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
 * August 1, 2019. Joining University of Nevada, Reno as a Graduate Student.
@@ -42,3 +44,4 @@ redirect_from:
 * May 15, 2017. I joined Center for Cognitive Skill Enhancement, IUB as a Researcher.
 * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
 * April 4, 2017. Our model scored meanIOU 68.1% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
+</details>

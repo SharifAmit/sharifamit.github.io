@@ -1,6 +1,6 @@
 ---
 title: "Semantic Segmentation using FCN"
-excerpt: "* A fully convolutional neuraln network with multi-scale skip connection and dilated convolution for semantic segmentation."
+excerpt: "* A fully convolutional neural network with multi-scale skip connection and dilated convolution for semantic segmentation."
 collection: portfolio
 ---
 
