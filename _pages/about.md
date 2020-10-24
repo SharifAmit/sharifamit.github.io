@@ -25,8 +25,10 @@ redirect_from:
 * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
 
 # Past news and events
-<details><summary>Click to expand.</summary>
-
+<details>  
+  <summary>Click to expand!</summary>
+  
+  ## Chronological events
   * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
   * December 19, 2019. We organized [Bengali.AI Computer Vision Challenge 2019](https://www.kaggle.com/c/bengaliai-cv19) with Kaggle on <b>Bengali.AI Handwritten Grapheme Classification</b>.
   * September 11, 2019. One paper accepted to <b>IEEE ICMLA 2019</b>.
