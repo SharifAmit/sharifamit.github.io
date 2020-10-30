@@ -18,8 +18,8 @@ main:
   - title: "Bio"
     url: /bio/
     
-  - title: "Resume"
-    url: /files/Sharif_Amit_Kamran_Resume_2020.pdf
+  - title: "CV"
+    url: /files/Sharif_Amit_Kamran_CV_2020.pdf
 
   #- title: "Guide"
   #  url: /markdown/
