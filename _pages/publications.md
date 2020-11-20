@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>GANgioNet: A Novel Deep Learning Conditional Generative Adversarial Network for Producing Angiography Images from Retinal Fundus Photographs</b> <br> 
+Alireza Tavakkoli,<b> Sharif Amit Kamran </b>, Khondker Fariha Hossain, Stewart Lee Zuckerbrod.
+<i>Journal Article</i>. <b>Scientific Reports</b>.
 
 <b>[A High Throughput Machine-Learning Driven Analysis of Ca2+ Spatio-temporal Maps](https://sharifamit.com/publications/cell2020)</b> <br> 
 Wesley Leigh, Guillermo Del Valle,<b> Sharif Amit Kamran </b>, Bernard T Drumm, Alireza Tavakkoli, Kenton M Sanders, Sal Baker
