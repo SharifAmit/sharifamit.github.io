@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>A Novel Deep Learning Conditional Generative Adversarial Network for Producing Angiography Images from Retinal Fundus Photographs</b> <br> 
+<b>[A Novel Deep Learning Conditional Generative Adversarial Network for Producing Angiography Images from Retinal Fundus Photographs](https://sharifamit.com/publications/srep2020)</b> <br> 
 Alireza Tavakkoli,<b> Sharif Amit Kamran </b>, Khondker Fariha Hossain, Stewart Lee Zuckerbrod.
 <i>Journal Article</i>. <b>Scientific Reports</b>.
 
