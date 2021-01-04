@@ -28,6 +28,7 @@ redirect_from:
 # Past news and events
 <details>
   <summary> Click to expand</summary>
+  
   * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
   * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
   * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
