@@ -10,6 +10,7 @@ redirect_from:
 
 # About Me
 * Pursuing PhD. in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2020.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* Currently working as a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab.
 * I have completed my Master of Science in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
 * I have completed my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
