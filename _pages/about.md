@@ -16,7 +16,8 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-* January 11, 2020. My Master's thesis is now accessible from [here](https://scholarworks.unr.edu/handle/11714/7712).
+* February 1, 2021. Presented our poster at NASA Human Research Program IWS 2021.
+* January 11, 2021. My Master's thesis is now accessible from [here](https://scholarworks.unr.edu/handle/11714/7712).
 * December 7, 2020. Received GSA Fall Award 2020 for <b>Outstanding Graduating Student</b>. 
 * December 2, 2020. Successfully defended my <b>Master's Thesis</b>.
 * November 19, 2020. One paper accepted to <b>Scientific Reports</b>.
