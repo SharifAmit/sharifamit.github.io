@@ -17,6 +17,10 @@ Education
 
 Work Experience
 ======
+* <b>Product Development Intern</b> May 2021 - August 2021
+  * Personalized Healthcare Data Science Imaging, Genentech
+  * South San Fransiscom, California.
+
 * <b>Graduate Research Assistant</b> Aug 2019 - Present
   * Department of Comuter Science & UNR School of Medicine
   * University of Nevada, Reno.
