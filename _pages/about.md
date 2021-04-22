@@ -16,6 +16,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
+* April 22, 2021. Received GSA Spring Award 2020 for <b>Outstanding Graduate Student</b>. 
 * April 2, 2021. Joining <b>Genentech</b> as a Product Development Intern for PHC team in Summer.
 * February 1, 2021. Presented our poster at <b>NASA Human Research Program IWS 2021</b>.
 * January 11, 2021. My Master's thesis is now accessible from [here](https://scholarworks.unr.edu/handle/11714/7712).
@@ -25,14 +26,14 @@ redirect_from:
 * October 22, 2020. Completed reviewing papers for <b>WACV 2021</b>.
 * October 10, 2020. One paper accepted to <b> ICPR 2020 </b>.
 * September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
-* July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
 
 
 
 # Past news and events
 <details>
   <summary> Click to expand</summary>
-  
+
+  * July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
   * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
   * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
   * April 26, 2020. Book chapter accepted to <b>Deep Learning Applications, Volume 2</b>.
