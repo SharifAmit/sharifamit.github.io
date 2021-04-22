@@ -16,8 +16,8 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-* April 22, 2021. Received GSA Spring Award 2020 for <b>Outstanding Graduate Student</b>. 
-* April 2, 2021. Joining <b>Genentech</b> as a Product Development Intern for PHC team in Summer.
+* April 22, 2021. Received GSA Spring Award 2022 for <b>Outstanding Graduate Student</b>. 
+* April 2, 2021. Joining <b>Genentech</b> as a Product Development Intern for Personalized Healthcare Data Science Imaging team in Summer.
 * February 1, 2021. Presented our poster at <b>NASA Human Research Program IWS 2021</b>.
 * January 11, 2021. My Master's thesis is now accessible from [here](https://scholarworks.unr.edu/handle/11714/7712).
 * December 7, 2020. Received GSA Fall Award 2020 for <b>Outstanding Graduating Student</b>. 
