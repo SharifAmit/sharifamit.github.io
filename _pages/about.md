@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 # About Me
-* I'm currently pursuing PhD. in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
-* Along with that I work as a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab.
-* I have completed my Master of Science in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
-* I have finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
+* I'm currently working as a Product Development Intern at Genentech Inc. (subsidiary of Roche) for Summer 2021.
+* Along with that, I'm pursuing PhD. in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* Previously, I worked as a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab at UNR. I will resume this position in Fall 2021.
+* In December 2020,  I have completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
+* In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-* May 14, 2021. One paper accepted as Top 13% of early accept for <b>MICCAI 2021</b>.
+* May 14, 2021. One paper accepted as Top 13% of early accept to <b>MICCAI 2021</b>.
 * April 22, 2021. Received GSA Spring Award 2021 for <b>Outstanding Graduate Student</b>. 
 * April 2, 2021. Joining <b>Genentech</b> as a Product Development Intern for Personalized Healthcare Data Science Imaging team in Summer 2021.
 * February 1, 2021. Presented our poster at <b>NASA Human Research Program IWS 2021</b>.
