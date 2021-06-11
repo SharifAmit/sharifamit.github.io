@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 # About Me
-* I'm currently working as a Product Development Intern at Genentech Inc. (subsidiary of Roche) for Summer 2021.
+* I'm currently working as a Product Development Intern at Genentech Inc.
 * Along with that, I'm pursuing PhD. in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 * Previously, I worked as a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab at UNR. I will resume this position in Fall 2021.
-* In December 2020,  I have completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
+* In December 2020,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
+* June 9, 2021. I will be revieweing manuscripts for <b>Translational Vision Science & Technology</b>  Journal.
+* June 8, 2021. I have been invited as a Reviewer for 32nd British Machine Vision Conference 2021 <b>(BMVC)</b>.
 * May 14, 2021. One paper accepted as Top 13% of early accept to <b>MICCAI 2021</b>.
 * April 22, 2021. Received GSA Spring Award 2021 for <b>Outstanding Graduate Student</b>. 
 * April 2, 2021. Joining <b>Genentech</b> as a Product Development Intern for Personalized Healthcare Data Science Imaging team in Summer 2021.
@@ -27,14 +29,14 @@ redirect_from:
 * November 19, 2020. One paper accepted to <b>Scientific Reports</b>.
 * October 22, 2020. Completed reviewing papers for <b>WACV 2021</b>.
 * October 10, 2020. One paper accepted to <b> ICPR 2020 </b>.
-* September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
 
 
 
 # Past news and events
 <details>
   <summary> Click to expand</summary>
-
+  
+  * September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
   * July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
   * June 12, 2020. One paper accepted to <b>Cell Calcium</b>.
   * May 15, 2020. One paper accepted to <b>IEEE ICIP 2020</b>.
