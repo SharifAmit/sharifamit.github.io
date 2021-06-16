@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>[RV-GAN: Retinal Vessel Segmentation from Fundus Images using Multi-scale Generative Adversarial Networks](https://sharifamit.com/publications/miccai2021)</b> <br> 
+<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Kenton M Sanders, Salah A Baker.
+<i>24th International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2021</b>.
+
 <b>[A Novel Deep Learning Conditional Generative Adversarial Network for Producing Angiography Images from Retinal Fundus Photographs](https://sharifamit.com/publications/srep2020)</b> <br> 
 Alireza Tavakkoli,<b> Sharif Amit Kamran </b>, Khondker Fariha Hossain, Stewart Lee Zuckerbrod.
 <i>Journal Article</i>. <b>Scientific Reports</b>.
