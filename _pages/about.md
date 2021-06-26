@@ -17,6 +17,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
+* June 25, 2021. I have been awarded <b>MICCAI 2021 Student Travel Award</b>.
 * June 14, 2021. I have been invited as a Reviewer for <b>WACV 2022</b>.
 * June 13, 2021. Reviewing manuscripts for  <b>Biomedical Optics Express</b>.
 * June 9, 2021. Revieweing manuscripts for <b>Translational Vision Science & Technology</b>.
@@ -29,7 +30,6 @@ redirect_from:
 * December 7, 2020. Received GSA Fall Award 2020 for <b>Outstanding Graduating Student</b>. 
 * December 2, 2020. Successfully defended my <b>Master's Thesis</b>.
 * November 19, 2020. One paper accepted to <b>Scientific Reports</b>.
-* October 22, 2020. Completed reviewing papers for <b>WACV 2021</b>.
 
 
 
@@ -37,6 +37,7 @@ redirect_from:
 <details>
   <summary> Click to expand</summary>
   
+  * October 22, 2020. Completed reviewing papers for <b>WACV 2021</b>.
   * October 10, 2020. One paper accepted to <b> ICPR 2020 </b>.
   * September 21, 2020. One paper accepted to <b>ISVC 2020</b>.
   * July 15, 2020. Completed reviewing papers for <b>BMVC 2020</b>.
