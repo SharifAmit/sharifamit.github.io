@@ -55,8 +55,8 @@ Voluntary Academic Duties
   * Translational Vision Science & Technology
   * Biomedical Optics Express
   * 32nd British Machine Vision Virtual Conference (BMVC 2021)
+  * Winter Conference on  Applications of Computer Vision (WACV 2022)
   * Winter Conference on  Applications of Computer Vision (WACV 2021)
-  * Winter Conference on  Applications of Computer Vision (WACV 2020)
   * 31st British Machine Vision Virtual Conference (BMVC 2020)
 
 * <b>External Reviewer</b>
