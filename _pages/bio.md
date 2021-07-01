@@ -51,11 +51,19 @@ Online Certificates
 Voluntary Academic Duties
 ======
 * <b>Reviewer</b>
+  * Medical Physics
+  * Translational Vision Science & Technology
+  * Biomedical Optics Express
+  * 32nd British Machine Vision Virtual Conference (BMVC 2021)
+  * Winter Conference on  Applications of Computer Vision (WACV 2021)
   * Winter Conference on  Applications of Computer Vision (WACV 2020)
   * 31st British Machine Vision Virtual Conference (BMVC 2020)
+
+* <b>External Reviewer</b>
+  * IEEE Transaction on Medical Imaging
+  * Sensors
   * International Conference on Robotics and Automation (ICRA 2019)
-  * Sensors Journal
-  * International Journal on Artificial Intelligence Tools
+
 * <b>Student Orgranizer</b>
   * 14th International Symposium on Visual Computing (ISVC) 2019
 
