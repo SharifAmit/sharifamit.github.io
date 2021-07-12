@@ -17,6 +17,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
+* July 11, 2021. My internship at <b>Genentech</b> has been extendid till December 2021.
 * July 1, 2021. Reviewing manuscripts for  <b>Medical Physics</b>.
 * June 25, 2021. I have been awarded <b>MICCAI 2021 Student Travel Award</b>.
 * June 14, 2021. I have been invited as a Reviewer for <b>WACV 2022</b>.
