@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>[VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers](https://sharifamit.com/publications/iccvw2021)</b> <br> 
+<b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Salah A Baker.
+<i>2021 IEEE/CVF International Conference on Computer Vision Workshop</i>. <b>ICCV 2021</b>.
+
 <b>[RV-GAN: Retinal Vessel Segmentation from Fundus Images using Multi-scale Generative Adversarial Networks](https://sharifamit.com/publications/miccai2021)</b> <br> 
 <b>Sharif Amit Kamran </b>, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Kenton M Sanders, Salah A Baker.
 <i>24th International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2021</b>.
