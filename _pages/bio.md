@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD. in Computer Science & Engineering, University of Nevada Reno, 2025 (expected)
+* PhD. in Computer Science & Engineering, University of Nevada Reno, 2023 (expected)
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2020
 * Bsc. in Computer Science & Engineering, BRAC University, 2017
 
 Work Experience
 ======
-* <b>Product Development Intern</b> May 2021 - August 2021
+* <b>Product Development Intern</b> May 2021 - December 2021
   * Personalized Healthcare Data Science Imaging, Genentech
   * South San Fransiscom, California.
 
