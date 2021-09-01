@@ -17,7 +17,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-* August 31, 2021. Reviewing manuscripts for <b>IEEE TMI</b>
+* August 31, 2021. Reviewing manuscripts for <b>IEEE Transactions on Medical Imaging (TMI)</b>.
 * August 9, 2021. One paper accepted to <b>ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis</b>.
 * July 11, 2021. My internship at <b>Genentech</b> has been extended till December 2021.
 * July 1, 2021. Reviewing manuscripts for  <b>Medical Physics</b>.
@@ -40,7 +40,7 @@ redirect_from:
 # Past news and events
 <details>
   <summary> Click to expand</summary>
-  
+
   * December 7, 2020. Received GSA Fall Award 2020 for <b>Outstanding Graduating Student</b>. 
   * December 2, 2020. Successfully defended my <b>Master's Thesis</b>.
   * November 19, 2020. One paper accepted to <b>Scientific Reports</b>.

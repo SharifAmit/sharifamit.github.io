@@ -51,6 +51,7 @@ Online Certificates
 Voluntary Academic Duties
 ======
 * <b>Reviewer</b>
+  * IEEE Transaction on Medical Imaging
   * Medical Physics
   * Translational Vision Science & Technology
   * Biomedical Optics Express
@@ -60,7 +61,6 @@ Voluntary Academic Duties
   * 31st British Machine Vision Virtual Conference (BMVC 2020)
 
 * <b>External Reviewer</b>
-  * IEEE Transaction on Medical Imaging
   * Sensors
   * International Conference on Robotics and Automation (ICRA 2019)
 
