@@ -9,14 +9,19 @@ redirect_from:
 ---
 
 # About Me
-* I'm currently working as a Product Development Intern at Genentech Inc.
-* Along with that, I'm a PhD. Candidate in Computer Science at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
-* Previously, I worked as a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab at UNR. I will resume this position in Spring 2022.
+
+* I'm a PhD. Candidate in Computer Science and a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+
+* Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
+
 * In December 2020,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
+
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
+
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
+* December 10, 2021. Finished my internship at <b>Genentech, Inc.</b> after 8 months.
 * November 17, 2021. Passed my PhD Comprehensive Exam. I am now a <b>PhD Candidate</b>.
 * Septmebr 22, 2021. One abstract accepted to <b>OSA Fall Vision Meeting 2021</b>.
 * September 13, 2021. One paper accepted to <b>IEEE ICMLA 2021</b>.
