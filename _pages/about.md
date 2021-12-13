@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-* I'm a PhD. Candidate in Computer Science and a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I'm a PhD. Candidate in Computer Science and a Graduate Research Assistant at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV_2021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 
 * Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 
