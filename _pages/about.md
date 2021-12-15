@@ -21,6 +21,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
+* December 15, 2021. I have been selected as an <b>Outstanding Reviewer</b> at 32nd British Machine Vision Conference 2021 (BMVC).
 * December 10, 2021. Completed my 8 month long internship at <b>Genentech, Inc.</b>
 * November 17, 2021. Passed my PhD Comprehensive Exam. I am now a <b>PhD Candidate</b>.
 * Septmebr 22, 2021. One abstract accepted to <b>OSA Fall Vision Meeting 2021</b>.
