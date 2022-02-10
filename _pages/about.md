@@ -22,7 +22,7 @@ redirect_from:
 
 # Recent updates
 
-* February 9, 2022. Two abstracts accepted to <b>Journal of Vision</b>
+* February 9, 2022. Two abstracts accepted to <b>Journal of Vision</b>.
 * January 7, 2022. One abstract accepted to <b>Nasa HRP Investigators’ Workshop 2022</b>.
 * December 15, 2021. I have been selected as an <b>Outstanding Reviewer</b> at the 32nd British Machine Vision Conference, <b>BMVC 2021</b>.
 * December 10, 2021. Completed my 8 month long internship at <b>Genentech, Inc.</b>
