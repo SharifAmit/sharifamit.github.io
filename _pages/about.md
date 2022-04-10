@@ -22,7 +22,8 @@ redirect_from:
 
 # Recent updates
 
-* March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern.
+* April 10, 2022. One paper accepted to **IScience** Journal.
+* March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
 * February 9, 2022. Two abstracts accepted to **Journal of Vision**.
 * January 7, 2022. One abstract accepted to **Nasa HRP Investigators’ Workshop 2022**.
 * December 15, 2021. I have been selected as an **Outstanding Reviewer** at the 32nd British Machine Vision Conference, **BMVC 2021**.
@@ -36,18 +37,18 @@ redirect_from:
 * July 1, 2021. Reviewing manuscripts for **Medical Physics**.
 * June 25, 2021. I have been awarded **MICCAI 2021 Student Travel Award**.
 * June 14, 2021. I have been invited as a Reviewer for **WACV 2022**.
-* June 13, 2021. Reviewing manuscripts for  **Biomedical Optics Express**.
-* June 9, 2021. Revieweing manuscripts for **Translational Vision Science & Technology**.
-* June 8, 2021. I have been invited as a Reviewer for **BMVC 2021**.
-* May 14, 2021. One paper accepted as Top 13% of early accept to **MICCAI 2021**.
 
 
 
-<!--
+{{< past_news >}}
 # Past news and events
 <details>
   <summary> Click to expand</summary>
-
+  
+  * June 13, 2021. Reviewing manuscripts for  **Biomedical Optics Express**.
+  * June 9, 2021. Revieweing manuscripts for **Translational Vision Science & Technology**.
+  * June 8, 2021. I have been invited as a Reviewer for **BMVC 2021**.
+  * May 14, 2021. One paper accepted as Top 13% of early accept to **MICCAI 2021**.
   * April 22, 2021. Received GSA Spring Award 2021 for <b>Outstanding Graduate Student</b>. 
   * April 2, 2021. Joining <b>Genentech</b> as a Product Development Intern for Personalized Healthcare Data Science Imaging team in Summer 2021.
   * February 1, 2021. Presented our poster at <b>NASA Human Research Program IWS 2021</b>.
@@ -80,4 +81,4 @@ redirect_from:
   * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
   * April 4, 2017. Our model scored meanIOU 68.1% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
 </details>
--->
+{{< past_news >}}
