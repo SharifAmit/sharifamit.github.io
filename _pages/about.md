@@ -40,8 +40,9 @@ redirect_from:
 
 
 
-{{< past_news >}}
+
 # Past news and events
+{{< past_news >}}
 <details>
   <summary> Click to expand</summary>
   
