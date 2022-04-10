@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **[ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative Adversarial Networks](https://sharifamit.com/publications/icmla2021)**
-
 Khondker Fariha Hossain, <b>Sharif Amit Kamran </b>, Alireza Tavakkoli, Lei Pan, Daniel Ma, Sutharshan Rajasegarar, Chandan Karmaker.
-
 *20th IEEE International Conference On Machine Learning And Applications*. **ICMLA 2021**.
 
 <b>[VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers](https://sharifamit.com/publications/iccvw2021)</b> <br> 
