@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ======
-*  **Data, Analytics and Imaging Intern** May 2022 - Present
+* **Data, Analytics and Imaging Intern** May 2022 - Present
   * Personalized Healthcare Data Science Imaging, Roche/Genentech
   * South San Fransiscom, California.
 
