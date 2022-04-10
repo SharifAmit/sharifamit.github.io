@@ -18,12 +18,12 @@ Education
 Work Experience
 ======
 * **Data, Analytics and Imaging Intern** May 2022 - Present
-  * Personalized Healthcare Data Science Imaging, Roche/Genentech
-  * South San Fransiscom, California.
+  * Data, Analytics and Imaging (DAI) group, Roche/Genentech
+  * South San Fransisco, California.
 
 * **Product Development Intern** May 2021 - December 2021
   * Personalized Healthcare Data Science Imaging, Genentech
-  * South San Fransiscom, California.
+  * South San Fransisco, California.
 
 * **Graduate Research Assistant** Aug 2019 - Present
   * Department of Comuter Science & UNR School of Medicine
