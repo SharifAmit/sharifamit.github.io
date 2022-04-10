@@ -22,27 +22,28 @@ redirect_from:
 
 # Recent updates
 
-* February 9, 2022. Two abstracts accepted to <b>Journal of Vision</b>.
-* January 7, 2022. One abstract accepted to <b>Nasa HRP Investigators’ Workshop 2022</b>.
-* December 15, 2021. I have been selected as an <b>Outstanding Reviewer</b> at the 32nd British Machine Vision Conference, <b>BMVC 2021</b>.
-* December 10, 2021. Completed my 8 month long internship at <b>Genentech, Inc.</b>
-* November 17, 2021. Passed my PhD Comprehensive Exam. I am now a <b>PhD Candidate</b>.
-* Septmebr 22, 2021. One abstract accepted to <b>OSA Fall Vision Meeting 2021</b>.
-* September 13, 2021. One paper accepted to <b>IEEE ICMLA 2021</b>.
-* August 31, 2021. Reviewing manuscripts for <b>IEEE Transactions on Medical Imaging (TMI)</b>.
-* August 9, 2021. One paper accepted to <b>ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis</b>.
-* July 11, 2021. My internship at <b>Genentech</b> has been extended till December 2021.
-* July 1, 2021. Reviewing manuscripts for  <b>Medical Physics</b>.
-* June 25, 2021. I have been awarded <b>MICCAI 2021 Student Travel Award</b>.
-* June 14, 2021. I have been invited as a Reviewer for <b>WACV 2022</b>.
-* June 13, 2021. Reviewing manuscripts for  <b>Biomedical Optics Express</b>.
-* June 9, 2021. Revieweing manuscripts for <b>Translational Vision Science & Technology</b>.
-* June 8, 2021. I have been invited as a Reviewer for <b>BMVC 2021</b>.
-* May 14, 2021. One paper accepted as Top 13% of early accept to <b>MICCAI 2021</b>.
+* March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern.
+* February 9, 2022. Two abstracts accepted to **Journal of Vision**.
+* January 7, 2022. One abstract accepted to **Nasa HRP Investigators’ Workshop 2022**.
+* December 15, 2021. I have been selected as an **Outstanding Reviewer** at the 32nd British Machine Vision Conference, **BMVC 2021**.
+* December 10, 2021. Completed my 8 month long internship at **Genentech, Inc.**
+* November 17, 2021. Passed my PhD Comprehensive Exam. I am now a **PhD Candidate**.
+* Septmebr 22, 2021. One abstract accepted to **OSA Fall Vision Meeting 2021**.
+* September 13, 2021. One paper accepted to **IEEE ICMLA 2021**.
+* August 31, 2021. Reviewing manuscripts for **IEEE Transactions on Medical Imaging (TMI)**.
+* August 9, 2021. One paper accepted to **ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis**.
+* July 11, 2021. My internship at **Genentech** has been extended till December 2021.
+* July 1, 2021. Reviewing manuscripts for **Medical Physics**.
+* June 25, 2021. I have been awarded **MICCAI 2021 Student Travel Award**.
+* June 14, 2021. I have been invited as a Reviewer for **WACV 2022**.
+* June 13, 2021. Reviewing manuscripts for  **Biomedical Optics Express**.
+* June 9, 2021. Revieweing manuscripts for **Translational Vision Science & Technology**.
+* June 8, 2021. I have been invited as a Reviewer for **BMVC 2021**.
+* May 14, 2021. One paper accepted as Top 13% of early accept to **MICCAI 2021**.
 
 
 
-
+<!--
 # Past news and events
 <details>
   <summary> Click to expand</summary>
@@ -79,3 +80,4 @@ redirect_from:
   * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
   * April 4, 2017. Our model scored meanIOU 68.1% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
 </details>
+-->

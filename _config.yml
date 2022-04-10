@@ -6,11 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
 locale                   : "en-US"
 title                    : "Sharif Amit Kamran"
 title_separator          : "-"
