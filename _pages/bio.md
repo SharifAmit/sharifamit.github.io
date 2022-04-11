@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * **Data, Analytics and Imaging Intern** May 2022 - Present
-  * Data, Analytics and Imaging (DAI) group, Roche/Genentech
+  * Data, Analytics and Imaging (DAI), Roche/Genentech
   * South San Fransisco, California.
 
 * **Product Development Intern** May 2021 - December 2021
