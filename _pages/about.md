@@ -22,6 +22,7 @@ redirect_from:
 
 # Recent updates
 
+* April 15, 2022. One paper accepted to **Survey of Ophthalmology** Journal.
 * April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
 * April 10, 2022. One paper accepted to **iScience** Journal.
 * March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
@@ -37,7 +38,7 @@ redirect_from:
 * July 11, 2021. My internship at **Genentech** has been extended till December 2021.
 * July 1, 2021. Reviewing manuscripts for **Medical Physics**.
 * June 25, 2021. I have been awarded **MICCAI 2021 Student Travel Award**.
-* June 14, 2021. I have been invited as a Reviewer for **WACV 2022**.
+
 
 
 
@@ -47,6 +48,7 @@ redirect_from:
 <details>
   <summary> Click to expand</summary>
   
+  * June 14, 2021. I have been invited as a Reviewer for **WACV 2022**.
   * June 13, 2021. Reviewing manuscripts for  **Biomedical Optics Express**.
   * June 9, 2021. Revieweing manuscripts for **Translational Vision Science & Technology**.
   * June 8, 2021. I have been invited as a Reviewer for **BMVC 2021**.
