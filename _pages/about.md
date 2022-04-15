@@ -22,7 +22,7 @@ redirect_from:
 
 # Recent updates
 
-* April 14, 2022. Received GSA Spring Award 2022 for <b>Outstanding International Graduate Student</b>. 
+* April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
 * April 10, 2022. One paper accepted to **iScience** Journal.
 * March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
 * February 9, 2022. Two abstracts accepted to **Journal of Vision**.
