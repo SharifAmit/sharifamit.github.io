@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **[A Non-Invasive Approach to Monitor Anemia During Long-Duration Spaceflight with Retinal Fundus Images and Deep Learning](https://sharifamit.com/publications/lssr2022)**  
-Ethan Waisberg, Joshua Ong, NasifZaman, **Sharif Amit Kamran**, Andrew G. Lee, Alireza Tavakkoli *Journal Article*. **Life Sciences in Space Research**.
+Ethan Waisberg, Joshua Ong, Nasif Zaman, **Sharif Amit Kamran**, Andrew G. Lee, Alireza Tavakkoli *Journal Article*. **Life Sciences in Space Research**.
 
 **[ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative Adversarial Networks](https://sharifamit.com/publications/icmla2021)**  
 Khondker Fariha Hossain, **Sharif Amit Kamran**, Alireza Tavakkoli, Lei Pan, Daniel Ma, Sutharshan Rajasegarar, Chandan Karmaker. *20th IEEE International Conference On Machine Learning And Applications*. **ICMLA 2021**.
