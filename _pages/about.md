@@ -22,7 +22,8 @@ redirect_from:
 
 # Recent updates
 
-* April 15, 2022. One paper accepted to **Survey of Ophthalmology** Journal.
+* April 19, 2022. One paper accepted to **Life Sciences in Space Research** Journal.
+* April 18, 2022. One paper accepted to **Survey of Ophthalmology** Journal.
 * April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
 * April 10, 2022. One paper accepted to **iScience** Journal.
 * March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
