@@ -43,7 +43,7 @@ redirect_from:
 
 
 
-
+<!--
 # Past news and events
 
 <details>
@@ -86,3 +86,4 @@ redirect_from:
   * April 30, 2017. I finished my Bachelors in Computer Science degree from BRAC University.
   * April 4, 2017. Our model scored meanIOU 68.1% in "Semantic Segmentation" category of Pascal VOC 2012 challenge.
 </details>
+-->
