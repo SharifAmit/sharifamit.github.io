@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**[Neuro-ophthalmic Imaging and Visual Assessment Technology for Spaceflight Associated Neuro-ocular Syndrome (SANS)](https://sharifamit.com/publications/soj2022)**  
+Joshua Ong, Gary Strangman, Alireza Tavakkoli, Nasif Zaman, **Sharif Amit Kamran**, Quan Zhang, Vladimir Ivkovic, Andrew G. Lee. *Journal Article*. **Survey of Ophthalmology**.
+
 **[A Non-Invasive Approach to Monitor Anemia During Long-Duration Spaceflight with Retinal Fundus Images and Deep Learning](https://sharifamit.com/publications/lssr2022)**  
 Ethan Waisberg, Joshua Ong, Nasif Zaman, **Sharif Amit Kamran**, Andrew G. Lee, Alireza Tavakkoli. *Journal Article*. **Life Sciences in Space Research**.
 
