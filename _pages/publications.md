@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**[New open-source software for subcellular segmentation and analysis of spatiotemporal fluorescence signals using deep learning](https://sharifamit.com/publications/iscience2022)**  
+**Sharif Amit Kamran**, Khondker Fariha Hossain, Hussein Moghnieh, Sarah Riar, Allison Bartlett, Alireza Tavakkoli, Kenton M. Sanders, Salah A. Baker. *Journal Article*. **iScience**.
+
 **[Neuro-ophthalmic Imaging and Visual Assessment Technology for Spaceflight Associated Neuro-ocular Syndrome (SANS)](https://sharifamit.com/publications/soj2022)**  
 Joshua Ong, Gary Strangman, Alireza Tavakkoli, Nasif Zaman, **Sharif Amit Kamran**, Quan Zhang, Vladimir Ivkovic, Andrew G. Lee. *Journal Article*. **Survey of Ophthalmology**.
 
