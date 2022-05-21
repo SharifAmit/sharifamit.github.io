@@ -10,9 +10,10 @@ redirect_from:
 
 # About Me
 
-* I'm a PhD. Candidate in Computer Science and a GRA at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I am working as a Data, Analytics and Imaging Intern at Roche/Genentech. Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 
-* I will be joining Roche/Genentech as Data, Analytics and Imaging Intern in Summer 2022. Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
+* I'm also a PhD. Candidate in Computer Science & Engineering and have worked as a GRA at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+
 
 * In December 2020,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
 
