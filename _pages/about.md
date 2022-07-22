@@ -23,8 +23,8 @@ redirect_from:
 
 # Recent updates
 
-* June 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
-* June 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
+* July 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
+* July 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
 * April 19, 2022. One paper accepted to **Life Sciences in Space Research** Journal.
 * April 18, 2022. One paper accepted to **Survey of Ophthalmology** Journal.
 * April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
