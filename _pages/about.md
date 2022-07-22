@@ -23,6 +23,8 @@ redirect_from:
 
 # Recent updates
 
+* June 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
+* June 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
 * April 19, 2022. One paper accepted to **Life Sciences in Space Research** Journal.
 * April 18, 2022. One paper accepted to **Survey of Ophthalmology** Journal.
 * April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
@@ -37,9 +39,7 @@ redirect_from:
 * September 13, 2021. One paper accepted to **IEEE ICMLA 2021**.
 * August 31, 2021. Reviewing manuscripts for **IEEE Transactions on Medical Imaging (TMI)**.
 * August 9, 2021. One paper accepted to **ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis**.
-* July 11, 2021. My internship at **Genentech** has been extended till December 2021.
-* July 1, 2021. Reviewing manuscripts for **Medical Physics**.
-* June 25, 2021. I have been awarded **MICCAI 2021 Student Travel Award**.
+
 
 
 
@@ -49,7 +49,9 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
-  
+  * July 11, 2021. My internship at **Genentech** has been extended till December 2021.
+  * July 1, 2021. Reviewing manuscripts for **Medical Physics**.
+  * June 25, 2021. I have been awarded **MICCAI 2021 Student Travel Award**.
   * June 14, 2021. I have been invited as a Reviewer for **WACV 2022**.
   * June 13, 2021. Reviewing manuscripts for  **Biomedical Optics Express**.
   * June 9, 2021. Revieweing manuscripts for **Translational Vision Science & Technology**.
