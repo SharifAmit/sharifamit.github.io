@@ -23,6 +23,8 @@ redirect_from:
 
 # Recent updates
 
+* July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
+* July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
 * July 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
 * July 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
 * April 19, 2022. One paper accepted to **Life Sciences in Space Research** Journal.
