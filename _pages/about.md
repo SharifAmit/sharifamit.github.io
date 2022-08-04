@@ -23,6 +23,7 @@ redirect_from:
 
 # Recent updates
 
+* August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
 * July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
 * July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
 * July 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
