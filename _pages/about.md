@@ -23,6 +23,7 @@ redirect_from:
 
 # Recent updates
 
+* August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
 * August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
 * July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
 * July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
@@ -38,10 +39,6 @@ redirect_from:
 * December 15, 2021. I have been selected as an **Outstanding Reviewer** at the 32nd British Machine Vision Conference, **BMVC 2021**.
 * December 10, 2021. Completed my 8 month long internship at **Genentech, Inc.**
 * November 17, 2021. Passed my PhD Comprehensive Exam. I am now a **PhD Candidate**.
-* Septmebr 22, 2021. One abstract accepted to **OSA Fall Vision Meeting 2021**.
-* September 13, 2021. One paper accepted to **IEEE ICMLA 2021**.
-* August 31, 2021. Reviewing manuscripts for **IEEE Transactions on Medical Imaging (TMI)**.
-* August 9, 2021. One paper accepted to **ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis**.
 
 
 
@@ -52,6 +49,11 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  
+  * Septmebr 22, 2021. One abstract accepted to **OSA Fall Vision Meeting 2021**.
+  * September 13, 2021. One paper accepted to **IEEE ICMLA 2021**.
+  * August 31, 2021. Reviewing manuscripts for **IEEE Transactions on Medical Imaging (TMI)**.
+  * August 9, 2021. One paper accepted to **ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis**.
   * July 11, 2021. My internship at **Genentech** has been extended till December 2021.
   * July 1, 2021. Reviewing manuscripts for **Medical Physics**.
   * June 25, 2021. I have been awarded **MICCAI 2021 Student Travel Award**.
