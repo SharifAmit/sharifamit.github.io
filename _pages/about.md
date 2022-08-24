@@ -23,6 +23,8 @@ redirect_from:
 
 # Recent updates
 
+* August 24, 2022. One paper accepted to **Aerospace Medicine and Human Performance** Journal.
+* August 23, 2022. One paper accepted to **ISVC 2022**.
 * August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
 * August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
 * July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
@@ -36,9 +38,7 @@ redirect_from:
 * March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
 * February 9, 2022. Two abstracts accepted to **Journal of Vision**.
 * January 7, 2022. One abstract accepted to **Nasa HRP Investigators’ Workshop 2022**.
-* December 15, 2021. I have been selected as an **Outstanding Reviewer** at the 32nd British Machine Vision Conference, **BMVC 2021**.
-* December 10, 2021. Completed my 8 month long internship at **Genentech, Inc.**
-* November 17, 2021. Passed my PhD Comprehensive Exam. I am now a **PhD Candidate**.
+
 
 
 
@@ -49,7 +49,10 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
-  
+
+  * December 15, 2021. I have been selected as an **Outstanding Reviewer** at the 32nd British Machine Vision Conference, **BMVC 2021**.
+  * December 10, 2021. Completed my 8 month long internship at **Genentech, Inc.**
+  * November 17, 2021. Passed my PhD Comprehensive Exam. I am now a **PhD Candidate**.
   * Septmebr 22, 2021. One abstract accepted to **OSA Fall Vision Meeting 2021**.
   * September 13, 2021. One paper accepted to **IEEE ICMLA 2021**.
   * August 31, 2021. Reviewing manuscripts for **IEEE Transactions on Medical Imaging (TMI)**.
