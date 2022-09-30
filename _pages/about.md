@@ -22,6 +22,8 @@ redirect_from:
 
 # Recent updates
 
+* September 28, 2022. I have been awarded **GSA Travel Award**.
+* September 23, 2022. One paper accepted to **Journal of Visual Impairment & Blindness**.
 * September 8, 2022. Two abstracts accepted to **OSA Fall Vision Meeting 2022**.
 * September 2, 2022. One paper accepted to **ICMLA 2022**.
 * August 26, 2022. Completed my 4 month long internship at **Genentech, Inc.**
@@ -35,9 +37,6 @@ redirect_from:
 * July 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
 * April 19, 2022. One paper accepted to **Life Sciences in Space Research** Journal.
 * April 18, 2022. One paper accepted to **Survey of Ophthalmology** Journal.
-* April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
-* April 10, 2022. One paper accepted to **iScience** Journal.
-* March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
 
 
 
@@ -47,6 +46,10 @@ redirect_from:
 <details>
   <summary> Click to expand</summary>
 
+
+  * April 14, 2022. Received GSA Spring Award 2022 for **Outstanding International Graduate Student**. 
+  * April 10, 2022. One paper accepted to **iScience** Journal.
+  * March 25, 2022. Joining **Roche/Genentech** as Data, Analytics and Imaging Intern in Summer 2022.
   * February 9, 2022. Two abstracts accepted to **Journal of Vision**.
   * January 7, 2022. One abstract accepted to **Nasa HRP Investigators’ Workshop 2022**.
   * December 15, 2021. I have been selected as an **Outstanding Reviewer** at the 32nd British Machine Vision Conference, **BMVC 2021**.
