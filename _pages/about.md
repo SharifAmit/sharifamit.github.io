@@ -23,7 +23,6 @@ redirect_from:
 # Recent updates
 
 * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
-* October 12, 2022. One paper accepted to **Wearable Technologies** Journal.
 * September 28, 2022. I have been awarded **GSA Travel Award**.
 * September 23, 2022. One paper accepted to **Journal of Visual Impairment & Blindness**.
 * September 8, 2022. Two abstracts accepted to **OSA Fall Vision Meeting 2022**.
