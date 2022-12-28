@@ -22,6 +22,7 @@ redirect_from:
 
 # Recent updates
 
+* December 15, 2022. Two apper accepted to **Eye** Journal.
 * November 16, 2022. One paper accepted to **STAR Protocols** Journal.
 * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
 * September 28, 2022. I have been awarded **GSA Travel Award**.
@@ -34,7 +35,6 @@ redirect_from:
 * August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
 * August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
 * July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
-* July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
 
 
 <!--
@@ -42,6 +42,7 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  * July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
   * July 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
   * July 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
   * April 19, 2022. One paper accepted to **Life Sciences in Space Research** Journal.
