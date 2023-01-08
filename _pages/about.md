@@ -22,7 +22,9 @@ redirect_from:
 
 # Recent updates
 
-* December 15, 2022. Two apper accepted to **Eye** Journal.
+* January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
+* January 1, 2023. One paper accepted to **Life Sciences in Space Research** Journal.
+* December 15, 2022. Two paper accepted to **Eye** Journal.
 * November 16, 2022. One paper accepted to **STAR Protocols** Journal.
 * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
 * September 28, 2022. I have been awarded **GSA Travel Award**.
