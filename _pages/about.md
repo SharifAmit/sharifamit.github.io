@@ -35,8 +35,7 @@ redirect_from:
 * August 24, 2022. One paper accepted to **Aerospace Medicine and Human Performance** Journal.
 * August 23, 2022. One paper accepted to **ISVC 2022**.
 * August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
-* August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
-* July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
+
 
 
 <!--
@@ -44,6 +43,8 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  * August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
+  * July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
   * July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
   * July 21, 2022. One book chapter published in **Spaceflight Associated Neuro-Ocular Syndrome**.
   * July 20, 2022. One paper accepted to **MICCAI AMAI 2022** Workshop.
