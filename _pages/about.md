@@ -22,10 +22,11 @@ redirect_from:
 
 # Recent updates
 
+* January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**
 * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
 * January 1, 2023. One paper accepted to **Life Sciences in Space Research** Journal.
+* December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
 * December 15, 2022. Two paper accepted to **Eye** Journal.
-* November 16, 2022. One paper accepted to **STAR Protocols** Journal.
 * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
 * September 28, 2022. I have been awarded **GSA Travel Award**.
 * September 23, 2022. One paper accepted to **Journal of Visual Impairment & Blindness**.
@@ -33,8 +34,7 @@ redirect_from:
 * September 2, 2022. One paper accepted to **ICMLA 2022**.
 * August 26, 2022. Completed my 4 month long internship at **Genentech, Inc.**
 * August 24, 2022. One paper accepted to **Aerospace Medicine and Human Performance** Journal.
-* August 23, 2022. One paper accepted to **ISVC 2022**.
-* August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
+
 
 
 
@@ -43,6 +43,8 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  * August 23, 2022. One paper accepted to **ISVC 2022**.
+  * August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
   * August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
   * July 25, 2022. One paper accepted to **MICCAI OMIA 2022** Workshop.
   * July 25, 2022. One paper accepted to **NPJ Microgravity** Journal.
