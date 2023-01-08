@@ -22,7 +22,7 @@ redirect_from:
 
 # Recent updates
 
-* January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**
+* January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
 * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
 * January 1, 2023. One paper accepted to **Life Sciences in Space Research** Journal.
 * December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
