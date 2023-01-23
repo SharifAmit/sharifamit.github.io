@@ -21,7 +21,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 
 # Recent updates
-
+* January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
 * January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
 * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
 * January 1, 2023. One paper accepted to **Life Sciences in Space Research** Journal.
@@ -33,7 +33,7 @@ redirect_from:
 * September 8, 2022. Two abstracts accepted to **OSA Fall Vision Meeting 2022**.
 * September 2, 2022. One paper accepted to **ICMLA 2022**.
 * August 26, 2022. Completed my 4 month long internship at **Genentech, Inc.**
-* August 24, 2022. One paper accepted to **Aerospace Medicine and Human Performance** Journal.
+
 
 
 
@@ -43,6 +43,7 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  * August 24, 2022. One paper accepted to **Aerospace Medicine and Human Performance** Journal.
   * August 23, 2022. One paper accepted to **ISVC 2022**.
   * August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
   * August 4, 2022. One paper accepted to **Wearable Technologies** Journal.
