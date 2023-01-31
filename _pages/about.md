@@ -10,6 +10,8 @@ redirect_from:
 
 # About Me
 
+* <b>I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023.</b>
+
 * I'm a PhD Candidate in Computer Science & Engineering and have worked as a GRA at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada, Reno](https://www.unr.edu/). [[CV](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 
 * I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
