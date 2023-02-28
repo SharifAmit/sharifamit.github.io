@@ -58,6 +58,7 @@ Voluntary Academic Duties
 * **Reviewer**
   * IEEE Transaction on Medical Imaging
   * Medical Physics
+  * Jama Ophthalmology
   * Translational Vision Science & Technology
   * Biomedical Optics Express
   * 32nd British Machine Vision Virtual Conference (BMVC 2021)
