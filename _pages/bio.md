@@ -19,11 +19,11 @@ Work Experience
 ======
 * **Instructor** January 2023 - Present
   * CS687/CS487 : Fundamentals of Deep Learning
-  * Department of Comuter Science
+  * Department of Computer Science & Engineering
   * University of Nevada, Reno.
 
 * **Graduate Research Assistant** Aug 2019 - Present
-  * Department of Comuter Science & UNR School of Medicine
+  * Department of Computer Science & UNR School of Medicine
   * University of Nevada, Reno.
 
 * **Data, Analytics and Imaging Intern** May 2022 - August 2022
