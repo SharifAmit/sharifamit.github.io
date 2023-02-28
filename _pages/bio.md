@@ -17,17 +17,22 @@ Education
 
 Work Experience
 ======
-* **Data, Analytics and Imaging Intern** May 2022 - Present
+* **Instructor** January 2023 - Present
+  * CS687/CS487 : Fundamentals of Deep Learning
+  * Department of Comuter Science
+  * University of Nevada, Reno.
+
+* **Graduate Research Assistant** Aug 2019 - Present
+  * Department of Comuter Science & UNR School of Medicine
+  * University of Nevada, Reno.
+
+* **Data, Analytics and Imaging Intern** May 2022 - August 2022
   * Data, Analytics and Imaging (DAI), Roche/Genentech
   * South San Fransisco, California.
 
 * **Product Development Intern** May 2021 - December 2021
   * Personalized Healthcare Data Science Imaging, Genentech
   * South San Fransisco, California.
-
-* **Graduate Research Assistant** Aug 2019 - Present
-  * Department of Comuter Science & UNR School of Medicine
-  * University of Nevada, Reno.
 
 * **Graduate Teaching Assistant** Jan 2020 - May 2020
   * CS491/CS691: Deep Learning
