@@ -13,7 +13,9 @@ redirect_from:
 <!--
 * 🔴 **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023.** [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)]
 -->
-* I'm a PhD Candidate in Computer Science & Engineering and have worked as a GRA at Human-Machine Perception Lab and Ca2+ Imaging Lab at [University of Nevada, Reno](https://www.unr.edu/). [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I'm a Post-doctoral Scientist at Johnson & Johnson working in Radiology in AI
+
+* I have completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 
 * I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 
@@ -21,22 +23,21 @@ redirect_from:
 
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 
-* My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
+* My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Representation Learning with Limited labels for biomedical image synthesis, Segmentation,  and detection. 
 
 # Recent updates
+* April 18, 20223. Successfully defended my PhD dissertation. 
+* February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
+* February 1, 2023. One paper accepted to **Eye**.
 * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
 * January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
 * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
 * January 1, 2023. One paper accepted to **Life Sciences in Space Research** Journal.
 * December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
-* December 15, 2022. Two paper accepted to **Eye** Journal.
+* December 15, 2022. Two paper accepted to **Eye**.
 * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
 * September 28, 2022. I have been awarded **GSA Travel Award**.
 * September 23, 2022. One paper accepted to **Journal of Visual Impairment & Blindness**.
-* September 8, 2022. Two abstracts accepted to **OSA Fall Vision Meeting 2022**.
-* September 2, 2022. One paper accepted to **ICMLA 2022**.
-* August 26, 2022. Completed my 4 month long internship at **Genentech, Inc.**
-
 
 
 
@@ -46,6 +47,10 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  
+  * September 8, 2022. Two abstracts accepted to **OSA Fall Vision Meeting 2022**.
+  * September 2, 2022. One paper accepted to **ICMLA 2022**.
+  * August 26, 2022. Completed my 4 month long internship at **Genentech, Inc.**
   * August 24, 2022. One paper accepted to **Aerospace Medicine and Human Performance** Journal.
   * August 23, 2022. One paper accepted to **ISVC 2022**.
   * August 18, 2022. One abstract accepted to **Materials Research Society (MRS) Fall Metting 2022**.
