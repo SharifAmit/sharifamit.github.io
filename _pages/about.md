@@ -13,7 +13,7 @@ redirect_from:
 <!--
 * 🔴 **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023.** [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)]
 -->
-* I'm a Post-doctoral Scientist at Johnson & Johnson working in Radiology in AI
+* I will be joining Johnson & Johnson as a Radiolog AI Post-doctoral Scientist from May 2023.
 
 * I have completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 
