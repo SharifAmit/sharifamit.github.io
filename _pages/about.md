@@ -24,6 +24,7 @@ redirect_from:
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation,  and Detection. 
 
 # Recent updates
+* May 12, 2023. One paper accepted to **Ophthalmology**.
 * April 18, 20223. Successfully defended my **PhD dissertation**. 
 * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
 * February 1, 2023. One paper accepted to **Eye**.
