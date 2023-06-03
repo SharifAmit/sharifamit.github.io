@@ -11,18 +11,22 @@ redirect_from:
 
 Education
 ======
-* PhD. in Computer Science & Engineering, University of Nevada Reno, 2023 (expected)
+* PhD. in Computer Science & Engineering, University of Nevada Reno, 2023
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2020
 * Bsc. in Computer Science & Engineering, BRAC University, 2017
 
 Work Experience
 ======
-* **Instructor** January 2023 - Present
+* **Radiology AI Postdoctoral Scientist** May 2023 - Present
+  * Janessen R&D Data Science
+  * Johnson & Johnson
+
+* **Instructor** January 2023 - May 2023
   * CS687/CS487 : Fundamentals of Deep Learning
   * Department of Computer Science & Engineering
   * University of Nevada, Reno.
 
-* **Graduate Research Assistant** Aug 2019 - Present
+* **Graduate Research Assistant** Aug 2019 - May 2023
   * Department of Computer Science & UNR School of Medicine
   * University of Nevada, Reno.
 

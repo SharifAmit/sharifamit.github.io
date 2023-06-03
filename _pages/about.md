@@ -13,9 +13,11 @@ redirect_from:
 <!--
 * 🔴 **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023.** [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)]
 -->
-* I will be joining Johnson & Johnson as a Radiology AI Postdoctoral Scientist from May 2023. I have completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I work as a Radiology AI Postdoctoral Scientist at Johnson & Johnson. [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
 
-* I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
+* Previously, I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. And before that as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
+
+* In May 2023, I have completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/).
 
 * In December 2020,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
 
