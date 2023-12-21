@@ -17,16 +17,20 @@ redirect_from:
 
 * Previously, I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. And before that as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 
-* In May 2023, I completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). My PhD dissertation was on [Deep Representation Learning with Limited Data for Biomedical Image Synthesis, Segmentation, and Detection]().
+* In May 2023, I completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). My PhD dissertation was on [Deep Representation Learning with Limited Data for Biomedical Image Synthesis, Segmentation, and Detection](https://scholarworks.unr.edu/handle/11714/8477).
 
 * In December 2020,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
 
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 
-* My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation,  and Detection. 
+* My research interest lies in the intersection of Computer Vision, Medical Imaging and 
+
+. Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation,  and Detection. 
 
 # Recent updates
-* June 23, 2023. One paper accepted to **MICCAI 20223**.
+* Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
+* July 3, 2023. One paper accepted to **Annals of Biomedical Engineering**.
+* June 23, 2023. One paper accepted to **MICCAI 2023**.
 * May 12, 2023. One paper accepted to **Ophthalmology**.
 * April 18, 20223. Successfully defended my **PhD dissertation**. 
 * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
@@ -34,12 +38,7 @@ redirect_from:
 * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
 * January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
 * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
-* January 1, 2023. One paper accepted to **Life Sciences in Space Research** Journal.
-* December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
-* December 15, 2022. Two paper accepted to **Eye**.
-* October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
-* September 28, 2022. I have been awarded **GSA Travel Award**.
-* September 23, 2022. One paper accepted to **Journal of Visual Impairment & Blindness**.
+* January 1, 2023. One paper accepted to **Life Sciences in Space Research**.
 
 
 
@@ -50,6 +49,11 @@ redirect_from:
 <details>
   <summary> Click to expand</summary>
   
+  * December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
+  * December 15, 2022. Two paper accepted to **Eye**.
+  * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
+  * September 28, 2022. I have been awarded **GSA Travel Award**.
+  * September 23, 2022. One paper accepted to **Journal of Visual Impairment & Blindness**.
   * September 8, 2022. Two abstracts accepted to **OSA Fall Vision Meeting 2022**.
   * September 2, 2022. One paper accepted to **ICMLA 2022**.
   * August 26, 2022. Completed my 4 month long internship at **Genentech, Inc.**
