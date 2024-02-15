@@ -28,10 +28,11 @@ redirect_from:
 . Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation,  and Detection. 
 
 # Recent updates
+
+* February 15, 2024. One paper accepted to **Ophthalmology Science**.
 * Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
 * July 3, 2023. One paper accepted to **Annals of Biomedical Engineering**.
 * June 23, 2023. One paper accepted to **MICCAI 2023**.
-* May 12, 2023. One paper accepted to **Ophthalmology**.
 * April 18, 20223. Successfully defended my **PhD dissertation**. 
 * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
 * February 1, 2023. One paper accepted to **Eye**.
