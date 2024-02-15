@@ -30,6 +30,7 @@ redirect_from:
 # Recent updates
 
 * February 15, 2024. One paper accepted to **Ophthalmology Science**.
+* February 5,2024. Revieweing manuscripts for **MICCAI 2024**.
 * Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
 * July 3, 2023. One paper accepted to **Annals of Biomedical Engineering**.
 * June 23, 2023. One paper accepted to **MICCAI 2023**.
@@ -39,7 +40,6 @@ redirect_from:
 * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
 * January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
 * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
-* January 1, 2023. One paper accepted to **Life Sciences in Space Research**.
 
 
 
@@ -50,6 +50,7 @@ redirect_from:
 <details>
   <summary> Click to expand</summary>
   
+  * January 1, 2023. One paper accepted to **Life Sciences in Space Research**.
   * December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
   * December 15, 2022. Two paper accepted to **Eye**.
   * October 29, 2022. One paper accepted to **Space: Science & Technology** Journal.
