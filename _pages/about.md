@@ -23,7 +23,7 @@ redirect_from:
 
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 
-* My research interest lies in the intersection of Computer Vision, Medical Imaging and Deep Learning. Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation,  and Detection. 
+* My research interest lies in the intersection of Computer Vision, Medical Imaging and Deep Learning. Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation, and Detection. 
 
 # Recent updates
 
