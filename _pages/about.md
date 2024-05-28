@@ -13,7 +13,7 @@ redirect_from:
 <!--
 * 🔴 **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023.** [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)]
 -->
-* I work as a Radiology AI Postdoctoral Scientist at Johnson & Johnson. [[Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ)]
+* I work as a Radiology AI Postdoctoral Scientist at Johnson & Johnson. [[Google Scholar](https://scholar.google.com/citations?user=VPbqTxEAAAAJ)]
 
 * Previously, I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. And before that as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 
@@ -27,6 +27,8 @@ redirect_from:
 
 # Recent updates
 
+* May 15, 2024. One paper accepte to **Survey of Ophthalmology**.
+* March 23, 2024. One paper accepted to **npj Microgravity**.
 * February 15, 2024. One paper accepted to **Ophthalmology Science**.
 * February 5,2024. Revieweing manuscripts for **MICCAI 2024**.
 * Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
@@ -36,8 +38,7 @@ redirect_from:
 * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
 * February 1, 2023. One paper accepted to **Eye**.
 * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
-* January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
-* January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
+
 
 
 
@@ -47,7 +48,9 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
-  
+
+  * January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
+  * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
   * January 1, 2023. One paper accepted to **Life Sciences in Space Research**.
   * December 16, 2022. One abstract accepted to **NASA HRP Investigators’ Workshop 2023**.
   * December 15, 2022. Two paper accepted to **Eye**.
