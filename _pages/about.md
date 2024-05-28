@@ -27,7 +27,7 @@ redirect_from:
 
 # Recent updates
 
-* May 15, 2024. One paper accepte to **Survey of Ophthalmology**.
+* May 15, 2024. One paper accepted to **Survey of Ophthalmology**.
 * March 23, 2024. One paper accepted to **npj Microgravity**.
 * February 15, 2024. One paper accepted to **Ophthalmology Science**.
 * February 5,2024. Revieweing manuscripts for **MICCAI 2024**.
