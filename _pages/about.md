@@ -27,6 +27,7 @@ redirect_from:
 
 # Recent updates
 
+* July 17, 2024. Two abstracts accepted to **EADV 2024**.
 * May 15, 2024. One paper accepted to **Survey of Ophthalmology**.
 * March 23, 2024. One paper accepted to **npj Microgravity**.
 * February 15, 2024. One paper accepted to **Ophthalmology Science**.
@@ -37,7 +38,7 @@ redirect_from:
 * April 18, 20223. Successfully defended my **PhD dissertation**. 
 * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
 * February 1, 2023. One paper accepted to **Eye**.
-* January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
+
 
 
 
@@ -49,6 +50,7 @@ redirect_from:
 <details>
   <summary> Click to expand</summary>
 
+  * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
   * January 4, 2023. Reviewing manuscript for **JAMA Opthalmology**.
   * January 1, 2023. One paper accepted to **Journal of Applied Physiology**.
   * January 1, 2023. One paper accepted to **Life Sciences in Space Research**.
