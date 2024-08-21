@@ -17,7 +17,7 @@ redirect_from:
 
 * Previously, I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. And before that as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 
-* In May 2023, I completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). My PhD dissertation was on [Deep Representation Learning with Limited Data for Biomedical Image Synthesis, Segmentation, and Detection](https://scholarworks.unr.edu/handle/11714/8477).
+* In May 2023, I completed my Ph.D. in Computer Science & Engineering from [University of Nevada, Reno](https://www.unr.edu/). My PhD dissertation was on [Deep Representation Learning with Limited Data for Biomedical Image Synthesis, Segmentation, and Detection](http://hdl.handle.net/11714/8477).
 
 * In December 2020,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Generative Adversarial Networks for Synthesizing Medical Images of Multiple Modalities](https://scholarworks.unr.edu/handle/11714/7712).
 
