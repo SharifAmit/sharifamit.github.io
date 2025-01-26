@@ -27,7 +27,7 @@ redirect_from:
 
 # Recent updates
 
-* January 25, 2025. Revieweing manuscripts for **MICCAI 2025**
+* January 25, 2025. Revieweing manuscripts for **MICCAI 2025**.
 * January 2, 2025. Two papers accepted to **ISBI 2025**.
 * October 17, 2024. One paper accepted to **Heliyon**.
 * July 25, 2024. Two abstracts accepted to **ESDR 2024**.
