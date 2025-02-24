@@ -27,6 +27,7 @@ redirect_from:
 
 # Recent updates
 
+* February 23, 2024. One paper accepted to **Scientific Reports**.
 * January 25, 2025. Revieweing manuscripts for **MICCAI 2025**.
 * January 2, 2025. Two papers accepted to **ISBI 2025**.
 * October 17, 2024. One paper accepted to **Heliyon**.
@@ -38,12 +39,6 @@ redirect_from:
 * February 5,2024. Revieweing manuscripts for **MICCAI 2024**.
 * Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
 * July 3, 2023. One paper accepted to **Annals of Biomedical Engineering**.
-* June 23, 2023. One paper accepted to **MICCAI 2023**.
-
-
-
-
-
 
 
 
@@ -52,6 +47,7 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  * June 23, 2023. One paper accepted to **MICCAI 2023**.
   * April 18, 20223. Successfully defended my **PhD dissertation**. 
   * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
   * February 1, 2023. One paper accepted to **Eye**.
