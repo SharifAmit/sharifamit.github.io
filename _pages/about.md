@@ -27,7 +27,8 @@ redirect_from:
 
 # Recent updates
 
-* February 23, 2024. One paper accepted to **Scientific Reports**.
+* April 2, 2025. One paper accepted to **Frontiers in Imaging**.
+* February 23, 2025. One paper accepted to **Scientific Reports**.
 * January 25, 2025. Revieweing manuscripts for **MICCAI 2025**.
 * January 2, 2025. Two papers accepted to **ISBI 2025**.
 * October 17, 2024. One paper accepted to **Heliyon**.
