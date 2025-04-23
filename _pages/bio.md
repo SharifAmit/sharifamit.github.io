@@ -17,10 +17,6 @@ Education
 
 Work Experience
 ======
-* **Senior AI & Computer Vision Engineer** April 2025 - Present
-  * J&J R&D Data Science - Computer Vision
-  * Johnson & Johnson Innovative Medicine
-
 * **Radiology AI Postdoctoral Scientist** May 2023 - April 2025
   * J&J R&D Data Science - Computer Vision
   * Johnson & Johnson Innovative Medicine
