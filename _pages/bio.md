@@ -17,9 +17,13 @@ Education
 
 Work Experience
 ======
+* **Senior AI & Computer Vision Engineer** May 2023 - Present
+  * J&J R&D Data Science
+  * Johnson & Johnson Innovative Medicine
+
 * **Radiology AI Postdoctoral Scientist** May 2023 - Present
-  * Janessen R&D Data Science
-  * Johnson & Johnson
+  * J&J R&D Data Science
+  * Johnson & Johnson Innovative Medicine
 
 * **Instructor** January 2023 - May 2023
   * CS687/CS487 : Fundamentals of Deep Learning
