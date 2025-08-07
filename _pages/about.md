@@ -10,9 +10,31 @@ redirect_from:
 
 # About Me
 
+I’m a **Senior AI & Computer Vision Engineer** at **Johnson & Johnson**, working on cutting-edge solutions at the intersection of **deep learning**, **computer vision**, and **medical imaging**.
+
+Previously, I was a **Radiology AI Postdoctoral Fellow** at Johnson & Johnson. Before that, I interned at **Genentech Inc.** in two roles:
+- **Data, Analytics, and Imaging Intern** (May 2022 – Aug 2022)
+- **Product Development Intern** (May 2021 – Dec 2021)
+
+---
+
+## Research Interests
+
+My work focuses on advancing AI for healthcare, particularly in the areas of:
+
+- 🔬 **Representation Learning with Limited Labels**
+- 🧠 **Biomedical Image Synthesis, Segmentation, and Detection**
+- 🧩 **Multi-modal Learning and Foundation Models for Medical Imaging**
+
+I’m passionate about building scalable, label-efficient models that can drive clinical insights and improve patient outcomes.
+
+---
+
+📚 My publications can be found here: [**Google Scholar**](https://scholar.google.com/citations?user=VPbqTxEAAAAJ)
+
 <!--
 * 🔴 **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023.** [[Resume](https://sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf)]
--->
+
 * I work as a Senior AI & Computer Vision Engineer at Johnson & Johnson. [[Google Scholar](https://scholar.google.com/citations?user=VPbqTxEAAAAJ)]
 
 * Previously, I was a Radiology AI Postdoc at Johnson & Johnson. Before that, I worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. And before that as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
@@ -24,22 +46,18 @@ redirect_from:
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 
 * My research interest lies in the intersection of Computer Vision, Medical Imaging and Deep Learning. Most of my research involves Representation Learning with Limited labels for Biomedical Image Synthesis, Segmentation, and Detection. 
+-->
 
 # Recent updates
 
+* July 23, 2025. One abstract accepted to **ESDR 2025**.
+* July 13, 2025. One abstract accepted to **EADV 2025**.
+* June 17, 2025. One paper accepted to **MICCAI 2025**.
 * April 2, 2025. One paper accepted to **Frontiers in Imaging**.
 * February 23, 2025. One paper accepted to **Scientific Reports**.
 * January 25, 2025. Revieweing manuscripts for **MICCAI 2025**.
 * January 2, 2025. Two papers accepted to **ISBI 2025**.
 * October 17, 2024. One paper accepted to **Heliyon**.
-* July 25, 2024. Two abstracts accepted to **ESDR 2024**.
-* July 17, 2024. Two abstracts accepted to **EADV 2024**.
-* May 15, 2024. One paper accepted to **Survey of Ophthalmology**.
-* March 23, 2024. One paper accepted to **npj Microgravity**.
-* February 15, 2024. One paper accepted to **Ophthalmology Science**.
-* February 5,2024. Revieweing manuscripts for **MICCAI 2024**.
-* Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
-* July 3, 2023. One paper accepted to **Annals of Biomedical Engineering**.
 
 
 
@@ -48,6 +66,15 @@ redirect_from:
 
 <details>
   <summary> Click to expand</summary>
+  
+  * July 25, 2024. Two abstracts accepted to **ESDR 2024**.
+  * July 17, 2024. Two abstracts accepted to **EADV 2024**.
+  * May 15, 2024. One paper accepted to **Survey of Ophthalmology**.
+  * March 23, 2024. One paper accepted to **npj Microgravity**.
+  * February 15, 2024. One paper accepted to **Ophthalmology Science**.
+  * February 5,2024. Revieweing manuscripts for **MICCAI 2024**.
+  * Septembet 26, 2023. One paper accepted to **Journal  of Physics: Materials**.
+  * July 3, 2023. One paper accepted to **Annals of Biomedical Engineering**.
   * June 23, 2023. One paper accepted to **MICCAI 2023**.
   * April 18, 20223. Successfully defended my **PhD dissertation**. 
   * February 14, 2023. Two paper accepted to **Irish Journal of Medical Science**.
