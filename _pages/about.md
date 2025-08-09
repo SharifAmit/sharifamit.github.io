@@ -12,7 +12,7 @@ redirect_from:
 
 I’m a **Senior AI & Computer Vision Engineer** at **Johnson & Johnson**, working on cutting-edge solutions at the intersection of **deep learning**, **computer vision**, and **medical imaging**.
 
-Previously, I was a **Radiology AI Postdoctoral Fellow** at Johnson & Johnson. Before that, I interned at **Genentech Inc.** in two roles:
+Previously, I was a **Radiology AI Postdoctoral Scientist** at Johnson & Johnson. Before that, I interned at **Genentech Inc.** in two roles:
 - **Data, Analytics, and Imaging Intern** (May 2022 – Aug 2022)
 - **Product Development Intern** (May 2021 – Dec 2021)
 
