@@ -23,8 +23,8 @@ Previously, I was a **Radiology AI Postdoctoral Scientist** at Johnson & Johnson
 My work focuses on advancing AI for healthcare, particularly in the areas of:
 
 - 🔬 **Representation Learning with Limited Labels**
-- 🧠 **Biomedical Image Synthesis, Segmentation, and Detection**
-- 🧩 **Multi-modal Learning and Foundation Models for Medical Imaging**
+- 🧩 **Biomedical Image Synthesis, Segmentation, and Detection**
+- 🔥 **Multi-modal Learning and Foundation Models for Medical Imaging**
 
 I’m passionate about building scalable, label-efficient models that can drive clinical insights and improve patient outcomes.
 
