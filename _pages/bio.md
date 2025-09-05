@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD. in Computer Science & Engineering, University of Nevada Reno, 2023
-* M.S. in Computer Science & Engineering, University of Nevada Reno, 2020
-* Bsc. in Computer Science & Engineering, BRAC University, 2017
+* PhD. in Computer Science & Engineering, University of Nevada Reno
+* M.S. in Computer Science & Engineering, University of Nevada Reno
+* Bsc. in Computer Science & Engineering, BRAC University
 
 Work Experience
 ======
