@@ -49,7 +49,7 @@ I’m passionate about building scalable, label-efficient models that can drive 
 -->
 
 # Recent updates
-
+* December 12, 2025. One abstract accepted to **AAD 2026**.
 * July 23, 2025. One abstract accepted to **ESDR 2025**.
 * July 13, 2025. One abstract accepted to **EADV 2025**.
 * June 17, 2025. One paper accepted to **MICCAI 2025**.
