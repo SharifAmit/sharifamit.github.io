@@ -49,6 +49,7 @@ I’m passionate about building scalable, label-efficient models that can drive 
 -->
 
 # Recent updates
+* August 14, 2026. One paper accepted (oral) to **MICCAI MLMI 2026**.
 * December 12, 2025. One abstract accepted to **AAD 2026**.
 * July 23, 2025. One abstract accepted to **ESDR 2025**.
 * July 13, 2025. One abstract accepted to **EADV 2025**.
@@ -56,8 +57,7 @@ I’m passionate about building scalable, label-efficient models that can drive 
 * April 2, 2025. One paper accepted to **Frontiers in Imaging**.
 * February 23, 2025. One paper accepted to **Scientific Reports**.
 * January 25, 2025. Revieweing manuscripts for **MICCAI 2025**.
-* January 2, 2025. Two papers accepted to **ISBI 2025**.
-* October 17, 2024. One paper accepted to **Heliyon**.
+
 
 
 
@@ -66,7 +66,8 @@ I’m passionate about building scalable, label-efficient models that can drive 
 
 <details>
   <summary> Click to expand</summary>
-  
+  * January 2, 2025. Two papers accepted to **ISBI 2025**.
+  * October 17, 2024. One paper accepted to **Heliyon**.
   * July 25, 2024. Two abstracts accepted to **ESDR 2024**.
   * July 17, 2024. Two abstracts accepted to **EADV 2024**.
   * May 15, 2024. One paper accepted to **Survey of Ophthalmology**.
